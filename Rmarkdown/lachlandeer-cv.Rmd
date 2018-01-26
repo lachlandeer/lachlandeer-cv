@@ -1,0 +1,148 @@
+---
+output:
+  pdf_document:
+    latex_engine: pdflatex
+    template: svm-latex-cv.tex
+geometry: margin=0.8in
+
+title: "CV"
+author: Lachlan Deer
+orcid: "https://orcid.org/0000-0001-8646-6095"
+jobtitle: "PhD Candidate in Economics, University of Zurich"
+address: "Schoenberggasse 1 · Zurich · CH-8001"
+fontawesome: yes
+email: lachlan.deer@gmail.com
+github: lachlandeer
+#phone: "+41 787-698-789"
+web: 'lachlandeer.github.io'
+updated: yes
+
+keywords: RMarkdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 10pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# EDUCATION
+
+*University of Zurich*, Ph.D. in Economics. \hfill 2013-current
+
+*University College London*, M.Sc in Economics (with Distinction). \hfill 2013
+
+*University of Adelaide*, M.Phil in Economics. \hfill 2012
+
+*University of Adelaide*, Bachelor's Degree in Economics (with First Class Honours). \hfill 2009
+
+# RESEARCH INTERESTS
+
+Empirical Industrial Organization, Quantitative Marketing, Structural Econometrics, Media Economics,
+Advertising, Behavioural Economics.
+
+# PUBLICATION
+**L. Deer** and R-C. Bayer, 2016, "*Pledges of Commitment and Cooperation in Partnerships*," Games 7(1) Art. No. 4.
+
+# WORKING PAPER
+G.S. Crawford, **L. Deer**, J. Smith and P. Sturgeon, 2017, "*The Regulation of Public Service Broadcasters: Should there be more advertising on television?*," CEPR Discussion Paper 12428 (Revise and Resubmit at IJIO).
+
+# WORK IN PROGRESS
+P.K. Chintagunta, G.S. Crawford and **L. Deer**, "*Tweeting to Success? Word of Mouth on Consumer and Firm Learning in the Motion Picture Industry*."
+
+**L. Deer**, M. Koenig and F. Vega Redondo, "*Endogenous Riot Networks*."
+
+**L Deer** and C. Oertel, "*Merger Simulation in R - a User's Guide*."
+
+F. Vieider, **L. Deer**, A. Eid, P. McGee, D. Schoch and H. Stojic, "*Gender Effects and Loss Aversion: Yes, No, Maybe?*"
+
+**L. Deer** and F. Vieder, "*Behaviourally Accurate Measures of Loss Aversion*."
+
+R-C. Bayer and **L. Deer**, "*Consumption and Asset Trading Behaviour in a Dynamic Experimental Economy*."
+
+
+# ACADEMIC PRESENTATIONS
+
+*2017*: UCSD Rady Marketing Lunch.
+
+*2016*: Econometric Society - Australasian Meeting, Australian Conference of Economists.
+
+*2015*: Zurich Workshop in Economics, ESA Europe.
+
+*2012*: Econometric Society - Australasian Meeting.
+
+*2011*: Econometric Society - Australasian Meeting, Australian Conference of Economists, Australia and New Zealand Workshop on Experimental Economics.
+
+# AWARDS 
+
+## External
+SNF Doc.Mobility Grant (Host Institution - Stanford GSB). \hfill 2016-2017
+
+Econometric Society Travel Grant. \hfill 2012
+
+Australian Postgraduate Award. \hfill 2010-2012
+
+## Internal
+Excellence in Masters Thesis Research, University of Adelaide. \hfill 2012
+
+Certificate of Teaching Excellence, University of Adelaide. \hfill 2010
+
+Legg Mason Asset Management Scholarship, University of Adelaide. \hfill 2008
+
+School of Economics Merit List, University of Adelaide. \hfill 2005-2007
+
+Summer Research Scholarship, University of Adelaide. \hfill 2006
+
+
+# TEACHING
+
+*Instructor, Software Carpentry and Data Carpentry* \hfill 2016-current
+
+> 2-day programming workshops at Karolinska Institute  (October 2017), Stanford (June 2017), Federal Reserve Board of Governors (May 2017) and Federal Reserve in Kansas City (Feb 2017).
+
+*Instructor, University of Zurich* \hfill 2016-2017
+
+> Programming Practices for Research in Economics (×2).
+
+*Teaching Assistant, University of Zurich* \hfill 2014-2016
+
+> Cross Section and Panel Data Econometrics (×2), Empirical Analysis of Asymmetric Information in Banking and Insurance Markets.
+
+*Teaching Assistant, School of Economics, University of Adelaide* \hfill 2009-2012
+
+> Business and Economic Statistics (×2), Intermediate Mathematical Economics, Intermediate
+Microeconomics (×4), International Financial Institutions and Markets, Macroeconomic Theory and
+Policy, Managerial Economics (×2), Money Banking and Financial Markets, Public Finance, Principles
+of Economics (×2), Principles of Macroeconomics (×2), Principles of Microeconomics I.
+
+*Instructor, School of Economics, University of Adelaide* \hfill 2010
+
+> Principles of Macroeconomics (Summer).
+
+*Instructor, Bradford College, University of Adelaide* \hfill 2009
+
+> International Financial Institutions and Markets, Principles of Macroeconomics.
+
+*Teaching Assistant, Flinders Business School, Flinders University* \hfill 2009
+
+> Principles of Macroeconomics.
+
+# PROFESSIONAL ACTIVITIES
+
+*Ad-hoc Refereeing*
+
+> Information Economics and Policy, Journal of Economic Psychology., Journal of Economics and Statistics
+
+*Workshops and Working Groups Organized*
+
+> Zurich Empirical Industrial Organization Group (2017, 2018), PhD Breakfast (2017, 2018, with Sebastian Doerr, Julian Langer and Max Winkler), Computational Economics Working Group (2016, 2018, with Julian Langer and Max Winkler), Zurich Workshop in Economics (2015, Lead Organizer).  
+
+*Community Engagement*
+
+> Lesson Maintainer for Data Carpentry - Social Science (forthcoming).
+
+> Lesson Contributions for Data Carpentry (R for Ecology) and Software Carpentry (R for Reproducible Research).
+
+# REFERENCES
+
+Available on Request.
