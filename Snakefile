@@ -22,6 +22,22 @@ rule run_rmd:
             > {log} {logAll}; \
             cp {output.pdf} ."
 
+# --- Packrat Rules --- #
+rule packrat_install:
+    shell:
+        "R -e 'install.packages(\"packrat\", repos=\"http://cran.us.r-project.org\")'"
+
+rule packrat_init:
+    shell:
+        "R -e 'packrat::init()'"
+
+rule packrat_snap:
+    shell:
+        "R -e 'packrat::snapshot()'"
+
+rule packrat_restore:
+    shell:
+        "R -e 'packrate::restore()'"
 
 # --- Clean Rules --- #
 rule clean:
