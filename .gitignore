@@ -30,4 +30,8 @@ vignettes/*.pdf
 logs/*
 # snakemake stuff
 .snakemake
+# packrat stuff
 packrat/lib*/
+packrat/src/*
+# R stuff
+.Rhistory
