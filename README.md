@@ -1,6 +1,8 @@
 # Rmarkdown to CV template
 
-A reproducible and easy-enough to use CV builder with `Rmarkdown`, `knitr` and `snakemake`
+A reproducible and easy-enough to use CV builder with `Rmarkdown`, `knitr` and `snakemake.`
+
+A semi-recent (that depends on how often I update my webpage) version of the final pdf is available [here](https://lachlandeer.github.io/files/lachlandeer-cv.pdf).
 
 ## How to Use
 
