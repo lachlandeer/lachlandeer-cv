@@ -2,6 +2,9 @@
 ##
 ## Contributors @lachlandeer
 
+# --- MACRO --- #
+YOUR_NAME = "lachlandeer"
+
 # --- Variable Declarations ---- #
 runR = "Rscript --no-save --no-restore --verbose"
 logAll = "2>&1"
@@ -11,12 +14,12 @@ logAll = "2>&1"
 rule run_rmd:
     input:
         runner   = "utils/knit_rmd.R",
-        rmd_file = "Rmarkdown/lachlandeer-cv.Rmd",
+        rmd_file = "Rmarkdown/cv.Rmd",
         tex_sty  = "Rmarkdown/svm-latex-cv.tex"
     output:
-        pdf = "out/lachlandeer-cv.pdf"
+        pdf = "out/" + YOUR_NAME + "-cv.pdf"
     log:
-        "logs/lachlandeer-cv.Rout"
+        "logs/cv.Rout"
     shell:
         "{runR} {input.runner} {input.rmd_file} {output.pdf} \
             > {log} {logAll}; \
