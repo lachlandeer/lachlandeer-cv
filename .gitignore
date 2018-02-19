@@ -35,3 +35,9 @@ vignettes/*.pdf
 
 # pdf files
 *.pdf
+
+# logs
+logs/*
+
+# snakemake stuff
+.snakemake
