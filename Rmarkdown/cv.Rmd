@@ -6,7 +6,7 @@ output:
 geometry: margin=0.8in
 
 title: "CV"
-author: Lachlan Deer
+author: "Lachlan Deer"
 orcid: "https://orcid.org/0000-0001-8646-6095"
 jobtitle: "PhD Candidate in Economics, University of Zurich"
 address: "Schoenberggasse 1 · Zurich · CH-8001"
@@ -63,6 +63,8 @@ R-C. Bayer and **L. Deer**, "*Consumption and Asset Trading Behaviour in a Dynam
 
 # ACADEMIC PRESENTATIONS
 
+*2018*: Marketing Science (forthcoming).
+
 *2017*: UCSD Rady Marketing Lunch.
 
 *2016*: Econometric Society - Australasian Meeting, Australian Conference of Economists.
@@ -73,7 +75,7 @@ R-C. Bayer and **L. Deer**, "*Consumption and Asset Trading Behaviour in a Dynam
 
 *2011*: Econometric Society - Australasian Meeting, Australian Conference of Economists, Australia and New Zealand Workshop on Experimental Economics.
 
-# AWARDS 
+# AWARDS
 
 ## External
 SNF Doc.Mobility Grant (Host Institution - Stanford GSB). \hfill 2016-2017
@@ -98,7 +100,7 @@ Summer Research Scholarship, University of Adelaide. \hfill 2006
 
 *Instructor, Software Carpentry and Data Carpentry* \hfill 2016-current
 
-> 2-day programming workshops at Karolinska Institute  (October 2017), Stanford (June 2017), Federal Reserve Board of Governors (May 2017) and Federal Reserve in Kansas City (Feb 2017).
+> 2-day programming workshops at University of Geneva (2018), Karolinska Institute  (October 2017), Stanford (June 2017), Federal Reserve Board of Governors (May 2017) and Federal Reserve in Kansas City (Feb 2017).
 
 *Instructor, University of Zurich* \hfill 2016-2017
 
@@ -110,10 +112,7 @@ Summer Research Scholarship, University of Adelaide. \hfill 2006
 
 *Teaching Assistant, School of Economics, University of Adelaide* \hfill 2009-2012
 
-> Business and Economic Statistics (×2), Intermediate Mathematical Economics, Intermediate
-Microeconomics (×4), International Financial Institutions and Markets, Macroeconomic Theory and
-Policy, Managerial Economics (×2), Money Banking and Financial Markets, Public Finance, Principles
-of Economics (×2), Principles of Macroeconomics (×2), Principles of Microeconomics I.
+> Business and Economic Statistics (×2), Intermediate Mathematical Economics, Intermediate Microeconomics (×4), International Financial Institutions and Markets, Macroeconomic Theory and Policy, Managerial Economics (×2), Money Banking and Financial Markets, Public Finance, Principles of Economics (×2), Principles of Macroeconomics (×2), Principles of Microeconomics I.
 
 *Instructor, School of Economics, University of Adelaide* \hfill 2010
 
@@ -131,15 +130,15 @@ of Economics (×2), Principles of Macroeconomics (×2), Principles of Microecono
 
 *Ad-hoc Refereeing*
 
-> Information Economics and Policy, Journal of Economic Psychology., Journal of Economics and Statistics
+> Information Economics and Policy, Journal of Economic Psychology., Journal of Economics and Statistics.
 
 *Workshops and Working Groups Organized*
 
-> Zurich Empirical Industrial Organization Group (2017, 2018), PhD Breakfast (2017, 2018, with Sebastian Doerr, Julian Langer and Max Winkler), Computational Economics Working Group (2016, 2018, with Julian Langer and Max Winkler), Zurich Workshop in Economics (2015, Lead Organizer).  
+> Zurich Empirical Industrial Organization Group (2017, 2018), PhD Breakfast (2017, 2018, with Sebastian Doerr, Julian Langer and Max Winkler), Computational Economics Working Group (2016, 2018, with Julian Langer and Max Winkler), Zurich Workshop in Economics (2015, Lead Organizer).
 
 *Community Engagement*
 
-> Lesson Maintainer for Data Carpentry - Social Science (forthcoming).
+> Lesson Maintainer for Data Carpentry - Introduction to Geospatial Data & Introduction to Geospatial Data with R.
 
 > Lesson Contributions for Data Carpentry (R for Ecology) and Software Carpentry (R for Reproducible Research).
 
