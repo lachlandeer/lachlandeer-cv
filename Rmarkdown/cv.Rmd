@@ -100,7 +100,7 @@ Summer Research Scholarship, University of Adelaide. \hfill 2006
 
 *Instructor, Software Carpentry and Data Carpentry* \hfill 2016-current
 
-> 2-day programming workshops at University of Geneva (2018), Karolinska Institute  (October 2017), Stanford (June 2017), Federal Reserve Board of Governors (May 2017) and Federal Reserve in Kansas City (Feb 2017).
+> 2-day programming workshops at University of Geneva (March 2018), Karolinska Institute  (October 2017), Stanford (June 2017), Federal Reserve Board of Governors (May 2017) and Federal Reserve in Kansas City (Feb 2017).
 
 *Instructor, University of Zurich* \hfill 2016-2017
 
@@ -138,9 +138,11 @@ Summer Research Scholarship, University of Adelaide. \hfill 2006
 
 *Community Engagement*
 
-> Lesson Maintainer for Data Carpentry - Introduction to Geospatial Data & Introduction to Geospatial Data with R.
+> Lesson Maintainer for Data Carpentry - Introduction to Geospatial Data, Introduction to R for Geospatial Data & Introduction to Geospatial Data with R.
 
-> Lesson Contributions for Data Carpentry (R for Ecology) and Software Carpentry (R for Reproducible Research).
+> Lesson Contributions to Software Carpentry and Data Carpentry
+
+* Data Organization in Spreadsheets for Social Scientists, Data Cleaning with OpenRefine for Social Scientists, Data Analysis and Visualization in R (Ecoology), R for Reproducible Scientific Analysis.
 
 # REFERENCES
 
