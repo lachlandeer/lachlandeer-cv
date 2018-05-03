@@ -140,9 +140,11 @@ Summer Research Scholarship, University of Adelaide. \hfill 2006
 
 > Lesson Maintainer for Data Carpentry - Introduction to Geospatial Data, Introduction to R for Geospatial Data & Introduction to Geospatial Data with R.
 
-> Lesson Contributions to Software Carpentry and Data Carpentry
-
-* Data Organization in Spreadsheets for Social Scientists, Data Cleaning with OpenRefine for Social Scientists, Data Analysis and Visualization in R (Ecoology), R for Reproducible Scientific Analysis.
+> Lesson Contributions to Software Carpentry and Data Carpentry:
+    Data Organization in Spreadsheets for Social Scientists,
+    Data Cleaning with OpenRefine for Social Scientists,
+    Data Analysis and Visualization in R (Ecoology),
+    R for Reproducible Scientific Analysis.
 
 # REFERENCES
 
