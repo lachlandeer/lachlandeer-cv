@@ -40,7 +40,7 @@ rule packrat_snap:
 
 rule packrat_restore:
     shell:
-        "R -e 'packrate::restore()'"
+        "R -e 'packrat::restore()'"
 
 # --- Clean Rules --- #
 rule clean:

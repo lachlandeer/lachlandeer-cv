@@ -1,7 +1,11 @@
-# knit_rmd2
+# knit_rmd
 #
 # this script takes an Rmd file command line argument
 # and complies it using knitr
+#
+# Compilation happens in the directory where the Rmd file is located since
+# this seems to be a bit of a philosophy, and then we move the file to the
+# desired output location
 #
 # Author: @lachlandeer
 #
@@ -21,7 +25,7 @@ print(final_pdf)
 ## name of the output will be
 tmp_pdf = here::here(dirname(rmd_file), out_file)
 ## knit
-rmarkdown::render(input = rmd_file, output_file = out_file, quiet=FALSE)
+rmarkdown::render(input = rmd_file, output_file = tmp_pdf, quiet=FALSE)
 
 # --- Move build file --- #
 file.rename(tmp_pdf, final_pdf)
