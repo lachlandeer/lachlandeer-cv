@@ -47,14 +47,14 @@ Advertising, Behavioural Economics.
 # WORKING PAPER
 G.S. Crawford, **L. Deer**, J. Smith and P. Sturgeon, 2017, "*The Regulation of Public Service Broadcasters: Should there be more advertising on television?*," CEPR Discussion Paper 12428 (Revise and Resubmit at IJIO).
 
+R. Bouchouicha, **L. Deer**, A. Eid, P. McGee, D. Schoch and H. Stojic, Y. Ygosse-Battisti and F. Vieider, "*Gender Effects and Loss Aversion: Yes, No, Maybe?*," Working Paper.
+
 # WORK IN PROGRESS
 P.K. Chintagunta, G.S. Crawford and **L. Deer**, "*Tweeting to Success? Word of Mouth on Consumer and Firm Learning in the Motion Picture Industry*."
 
 **L. Deer**, M. Koenig and F. Vega Redondo, "*Endogenous Riot Networks*."
 
 **L Deer** and C. Oertel, "*Merger Simulation in R - a User's Guide*."
-
-F. Vieider, **L. Deer**, A. Eid, P. McGee, D. Schoch and H. Stojic, "*Gender Effects and Loss Aversion: Yes, No, Maybe?*"
 
 **L. Deer** and F. Vieder, "*Behaviourally Accurate Measures of Loss Aversion*."
 
@@ -63,7 +63,7 @@ R-C. Bayer and **L. Deer**, "*Consumption and Asset Trading Behaviour in a Dynam
 
 # ACADEMIC PRESENTATIONS
 
-*2018*: Bocconi, Swiss IO Day (forthcoming), Marketing Science (forthcoming), EEA-ESEM (forthcoming), EARIE (forthcoming).
+*2018*: Bocconi, Swiss IO Day, Marketing Science, EEA-ESEM (forthcoming), EARIE (forthcoming).
 
 *2017*: UCSD Rady Marketing Lunch.
 
@@ -138,11 +138,12 @@ Summer Research Scholarship, University of Adelaide. \hfill 2006
 
 *Community Engagement*
 
-> Lesson Maintainer for Data Carpentry - Introduction to Geospatial Data, Introduction to R for Geospatial Data & Introduction to Geospatial Data with R.
+> Lesson Maintainer for Data Carpentry - Introduction to R for Geospatial Data
 
 > Lesson Contributions to Software Carpentry and Data Carpentry:
     Data Organization in Spreadsheets for Social Scientists,
     Data Cleaning with OpenRefine for Social Scientists,
+    Introduction to Geospatial Data with R,
     Data Analysis and Visualization in R (Ecoology),
     R for Reproducible Scientific Analysis.
 
