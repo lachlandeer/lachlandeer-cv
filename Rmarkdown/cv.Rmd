@@ -52,7 +52,7 @@ R. Bouchouicha, **L. Deer**, A. Eid, P. McGee, D. Schoch and H. Stojic, Y. Ygoss
 # WORK IN PROGRESS
 P.K. Chintagunta, G.S. Crawford and **L. Deer**, "*Tweeting to Success? Word of Mouth on Consumer and Firm Learning in the Motion Picture Industry*."
 
-**L. Deer**, M. Koenig and F. Vega Redondo, "*Endogenous Riot Networks*."
+F. Javier Barreda,  CS Hsieh, **L. Deer**,  M. Koenig and F. Vega Redondo, "*Endogenous Riot Networks*."
 
 **L Deer** and C. Oertel, "*Merger Simulation in R - a User's Guide*."
 
@@ -63,7 +63,7 @@ R-C. Bayer and **L. Deer**, "*Consumption and Asset Trading Behaviour in a Dynam
 
 # ACADEMIC PRESENTATIONS
 
-*2018*: Bocconi, Swiss IO Day, Marketing Science, EEA-ESEM (forthcoming), EARIE (forthcoming).
+*2018*: Bocconi, Swiss IO Day, Marketing Science, EEA-ESEM, EARIE, Mallen20 (forthcoming).
 
 *2017*: UCSD Rady Marketing Lunch.
 
@@ -144,7 +144,7 @@ Summer Research Scholarship, University of Adelaide. \hfill 2006
     Data Organization in Spreadsheets for Social Scientists,
     Data Cleaning with OpenRefine for Social Scientists,
     Introduction to Geospatial Data with R,
-    Data Analysis and Visualization in R (Ecoology),
+    Data Analysis and Visualization in R (Ecology),
     R for Reproducible Scientific Analysis.
 
 # REFERENCES
