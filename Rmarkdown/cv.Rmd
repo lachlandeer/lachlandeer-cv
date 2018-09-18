@@ -50,7 +50,10 @@ G.S. Crawford, **L. Deer**, J. Smith and P. Sturgeon, 2017, "*The Regulation of 
 R. Bouchouicha, **L. Deer**, A. Eid, P. McGee, D. Schoch and H. Stojic, Y. Ygosse-Battisti and F. Vieider, 2018, "*Gender Effects and Loss Aversion: Yes, No, Maybe?*," Working Paper (Submitted to Experimental Economics)..
 
 # WORK IN PROGRESS
-P.K. Chintagunta, G.S. Crawford and **L. Deer**, "*Tweeting to Success? Word of Mouth on Consumer and Firm Learning in the Motion Picture Industry*."
+P.K. Chintagunta, G.S. Crawford and **L. Deer**, "*The Impact of Social Media on the Demand for New Products*."
+
+**L. Deer**, "*How Advertising Influences Word of Mouth: Evidence from Twitter*."
+
 
 F. Javier Barreda,  CS Hsieh, **L. Deer**,  M. Koenig and F. Vega Redondo, "*Endogenous Riot Networks*."
 
