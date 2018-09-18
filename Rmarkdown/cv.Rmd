@@ -47,18 +47,24 @@ Advertising, Behavioural Economics.
 # WORKING PAPER
 G.S. Crawford, **L. Deer**, J. Smith and P. Sturgeon, 2017, "*The Regulation of Public Service Broadcasters: Should there be more advertising on television?*," CEPR Discussion Paper 12428 (Revise and Resubmit at IJIO).
 
-R. Bouchouicha, **L. Deer**, A. Eid, P. McGee, D. Schoch and H. Stojic, Y. Ygosse-Battisti and F. Vieider, 2018, "*Gender Effects and Loss Aversion: Yes, No, Maybe?*," Working Paper.
+R. Bouchouicha, **L. Deer**, A. Eid, P. McGee, D. Schoch and H. Stojic, Y. Ygosse-Battisti and F. Vieider, 2018, "*Gender Effects and Loss Aversion: Yes, No, Maybe?*," Working Paper (Submitted to Experimental Economics)..
 
 # WORK IN PROGRESS
 P.K. Chintagunta, G.S. Crawford and **L. Deer**, "*Tweeting to Success? Word of Mouth on Consumer and Firm Learning in the Motion Picture Industry*."
 
 F. Javier Barreda,  CS Hsieh, **L. Deer**,  M. Koenig and F. Vega Redondo, "*Endogenous Riot Networks*."
 
-**L Deer** and C. Oertel, "*Merger Simulation in R - a User's Guide*."
+**L. Deer** and P. Schmidt, "*Swipe Right for an STI? Tinder and the increase STIs in the United States*."
+
+**L. Deer**, "*Trendy Topics: The Evolution of Research Topics and Methods in Leading Economics Journals.*"
 
 **L. Deer** and F. Vieder, "*Behaviourally Accurate Measures of Loss Aversion*."
 
 R-C. Bayer and **L. Deer**, "*Consumption and Asset Trading Behaviour in a Dynamic Experimental Economy*."
+
+**L. Deer** and C. Oertel, "*Nested Logit Demand Estimation with Aggregate Market Shares in `R`*." (`R` package)
+
+**L. Deer** and C. Oertel, "*Merger Simulation in `R`*." (`R` package)
 
 
 # ACADEMIC PRESENTATIONS
@@ -85,6 +91,10 @@ Econometric Society Travel Grant. \hfill 2012
 Australian Postgraduate Award. \hfill 2010-2012
 
 ## Internal
+Dissertation Fellowship, University of Zurich. \hfill 2018-2019
+
+Department Scholarship for PhD Students, University of Zurich. \hfill 2013-2018
+
 Excellence in Masters Thesis Research, University of Adelaide. \hfill 2012
 
 Certificate of Teaching Excellence, University of Adelaide. \hfill 2010
@@ -100,7 +110,7 @@ Summer Research Scholarship, University of Adelaide. \hfill 2006
 
 *Instructor, Software Carpentry and Data Carpentry* \hfill 2016-current
 
-> 2-day programming workshops at University of Geneva (March 2018), Karolinska Institute  (October 2017), Stanford (June 2017), Federal Reserve Board of Governors (May 2017) and Federal Reserve in Kansas City (Feb 2017).
+> 2-day programming workshops at University of Trento (forthcoming), University of Geneva (March 2018), Karolinska Institute  (October 2017), Stanford (June 2017), Federal Reserve Board of Governors (May 2017) and Federal Reserve in Kansas City (Feb 2017).
 
 *Instructor, University of Zurich* \hfill 2016-2017
 
@@ -109,6 +119,8 @@ Summer Research Scholarship, University of Adelaide. \hfill 2006
 *Teaching Assistant, University of Zurich* \hfill 2014-2016
 
 > Cross Section and Panel Data Econometrics (×2), Empirical Analysis of Asymmetric Information in Banking and Insurance Markets.
+> Thesis Supervision: 7 $\times$ Bachelor's Theses, 4 $\times$ Master's Theses.
+
 
 *Teaching Assistant, School of Economics, University of Adelaide* \hfill 2009-2012
 
@@ -134,7 +146,7 @@ Summer Research Scholarship, University of Adelaide. \hfill 2006
 
 *Workshops and Working Groups Organized*
 
-> Zurich Empirical Industrial Organization Group (2017, 2018), PhD Breakfast (2017, 2018, with Sebastian Doerr, Julian Langer and Max Winkler), Computational Economics Working Group (2016, 2018, with Julian Langer and Max Winkler), Zurich Workshop in Economics (2015, Lead Organizer).
+> Zurich Empirical Industrial Organization Group (2017, 2018, Lead Organizer), PhD Breakfast (2017, 2018, co-organized), Computational Economics Working Group (2016, 2018, co-organized), Zurich Workshop in Economics (2015, Lead Organizer).
 
 *Community Engagement*
 
