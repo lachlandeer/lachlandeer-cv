@@ -47,10 +47,10 @@ Advertising, Behavioural Economics.
 # WORKING PAPER
 G.S. Crawford, **L. Deer**, J. Smith and P. Sturgeon, 2017, "*The Regulation of Public Service Broadcasters: Should there be more advertising on television?*," CEPR Discussion Paper 12428 (Revise and Resubmit at IJIO).
 
-R. Bouchouicha, **L. Deer**, A. Eid, P. McGee, D. Schoch and H. Stojic, Y. Ygosse-Battisti and F. Vieider, 2018, "*Gender Effects and Loss Aversion: Yes, No, Maybe?*," Working Paper (Submitted to Experimental Economics)..
+R. Bouchouicha, **L. Deer**, A. Eid, P. McGee, D. Schoch and H. Stojic, Y. Ygosse-Battisti and F. Vieider, 2018, "*Gender Effects and Loss Aversion: Yes, No, Maybe?*," Working Paper.
 
 # WORK IN PROGRESS
-P.K. Chintagunta, G.S. Crawford and **L. Deer**, "*The Impact of Social Media on the Demand for New Products*."
+**L. Deer**, P.K. Chintagunta and G.S. Crawford, "*The Impact of Twitter on New Product Performance*."
 
 **L. Deer**, "*How Advertising Influences Word of Mouth: Evidence from Twitter*."
 
@@ -61,7 +61,7 @@ F. Javier Barreda,  CS Hsieh, **L. Deer**,  M. Koenig and F. Vega Redondo, "*End
 
 **L. Deer**, "*Trendy Topics: The Evolution of Research Topics and Methods in Leading Economics Journals.*"
 
-**L. Deer** and F. Vieder, "*Behaviourally Accurate Measures of Loss Aversion*."
+<!-- **L. Deer** and F. Vieder, "*Behaviourally Accurate Measures of Loss Aversion*." -->
 
 R-C. Bayer and **L. Deer**, "*Consumption and Asset Trading Behaviour in a Dynamic Experimental Economy*."
 
@@ -72,7 +72,7 @@ R-C. Bayer and **L. Deer**, "*Consumption and Asset Trading Behaviour in a Dynam
 
 # ACADEMIC PRESENTATIONS
 
-*2018*: Bocconi, Swiss IO Day, Marketing Science, EEA-ESEM, EARIE, Mallen20 (forthcoming).
+*2018*: U Adelaide, Bocconi, Swiss IO Day, Marketing Science, EEA-ESEM, EARIE, Mallen20.
 
 *2017*: UCSD Rady Marketing Lunch.
 
@@ -113,7 +113,7 @@ Summer Research Scholarship, University of Adelaide. \hfill 2006
 
 *Instructor, Software Carpentry and Data Carpentry* \hfill 2016-current
 
-> 2-day programming workshops at University of Trento (forthcoming), University of Geneva (March 2018), Karolinska Institute  (October 2017), Stanford (June 2017), Federal Reserve Board of Governors (May 2017) and Federal Reserve in Kansas City (Feb 2017).
+> 2-day programming workshops at U Zurich (forthcoming), University of Trento (November 2018), University of Geneva (March 2018), Karolinska Institute  (October 2017), Stanford (June 2017), Federal Reserve Board of Governors (May 2017) and Federal Reserve in Kansas City (Feb 2017).
 
 *Instructor, University of Zurich* \hfill 2016-2017
 
@@ -146,7 +146,7 @@ Summer Research Scholarship, University of Adelaide. \hfill 2006
 
 *Ad-hoc Refereeing*
 
-> Information Economics and Policy, Journal of Economic Psychology., Journal of Economics and Statistics.
+> Games, Information Economics and Policy, Journal of Economic Psychology, Journal of Economics and Statistics.
 
 *Workshops and Working Groups Organized*
 
