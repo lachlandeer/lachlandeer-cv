@@ -28,7 +28,7 @@ urlcolor: blue
 
 # EDUCATION
 
-*University of Zurich*, Ph.D. in Economics. \hfill 2013-current
+*University of Zurich*, Ph.D. in Economics. \hfill 2013-2019 (exp.)
 
 *University College London*, M.Sc in Economics (with Distinction). \hfill 2013
 
@@ -56,7 +56,7 @@ R. Bouchouicha, **L. Deer**, A. Eid, P. McGee, D. Schoch and H. Stojic, Y. Ygoss
 # WORK IN PROGRESS
 **L. Deer**, P.K. Chintagunta and G.S. Crawford, "*The Impact of Twitter on New Product Performance*."
 
-**L. Deer**, "*How Advertising Influences Word of Mouth: Evidence from Twitter*."
+**L. Deer**, P.K. Chintagunta and G.S. Crawford, "*How Advertising Influences Word of Mouth: Evidence from Twitter*."
 
 
 F. Javier Barreda,  CS Hsieh, **L. Deer**,  M. Koenig and F. Vega Redondo, "*Endogenous Riot Networks*."
@@ -75,7 +75,7 @@ F. Javier Barreda,  CS Hsieh, **L. Deer**,  M. Koenig and F. Vega Redondo, "*End
 
 # ACADEMIC PRESENTATIONS
 
-*2019*: EMAC (forthcoming).
+*2019*: EMAC (forthcoming), Marketing Dynamics (forthcoming), Marketing Science (forthcoming).
 
 *2018*: U Adelaide, Bocconi, Swiss IO Day, Marketing Science, EEA-ESEM, EARIE, Mallen20.
 
@@ -120,7 +120,7 @@ Summer Research Scholarship, University of Adelaide. \hfill 2006
 
 *Instructor, Software Carpentry and Data Carpentry* \hfill 2016-current
 
-> 2-day programming workshops at U Zurich (February 2019, forthcoming), University of Trento (November 2018), University of Geneva (March 2018), Karolinska Institute  (October 2017), Stanford (June 2017), Federal Reserve Board of Governors (May 2017) and Federal Reserve in Kansas City (Feb 2017).
+> 2-day programming workshops at U Zurich (February 2019), University of Trento (November 2018), University of Geneva (March 2018), Karolinska Institute  (October 2017), Stanford (June 2017), Federal Reserve Board of Governors (May 2017) and Federal Reserve in Kansas City (Feb 2017).
 
 *Instructor, University of Zurich* \hfill 2016-2019
 
