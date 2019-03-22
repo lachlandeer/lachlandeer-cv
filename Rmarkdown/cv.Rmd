@@ -283,24 +283,24 @@ Statistical Learning Theory (ETH Computer Science) \hfill J.M. Buhmann
 
 Markets with Asymmetric Information (Tinbergen Institute) \hfill L. Einav & J. Levin
 
-Barcelona GSE Summer School in Microeconometrics \hfill B. Baltagi, S. Litschig & S. Jiménez-Martín
+Barcelona GSE Summer School in Microeconometrics (BGSE) \hfill B. Baltagi, S. Litschig & S. Jiménez-Martín
 
-Zurich Initiative For Computational Economics (Zurich Business) \hfill K. Judd, C.L. Su, H. Paarsch
+Zurich Initiative For Computational Economics (U Zurich Business) \hfill K. Judd, C.L. Su, H. Paarsch
 
-Structural Econometrics and Market Responses in Imperfectly Competitive Industries \hfill A. Pakes
+Structural Econometrics and Market Responses in Imperfectly Competitive Industries (CEMFI) \hfill A. Pakes
 
-The Econometrics of Models with Simultaneous Interactions: Theory and Applications to IO \hfill E.Tamer
+The Econometrics of Models with Simultaneous Interactions: Theory and Applications to IO (CEMFI) \hfill E.Tamer
 
-Panel Data Econometrics \hfill J. Wooldridge
+Panel Data Econometrics (CEMFI) \hfill J. Wooldridge
 
-Causality & Machine Learning \hfill S. Athey & G. Imbens
+Causality & Machine Learning (UCL) \hfill S. Athey & G. Imbens
 
-Machine Learning for Treatment Effects and Structural Equation Models \hfill V. Chernozhukov
+Machine Learning for Treatment Effects and Structural Equation Models  (UCL) \hfill V. Chernozhukov
 
-Empirical Models of Differentiated Products \hfill S. Berry
+Empirical Models of Differentiated Products (UCL) \hfill S. Berry
 
-Dynamic Programming Theory, computation and empirical applications \hfill J. Rust, F. Ishakov, B. Scherning
+Dynamic Programming Theory, computation and empirical applications  (UCL) \hfill J. Rust, F. Ishakov, B. Scherning
 
-Applied Nonparametric Econometrics \hfill J. Racine
+Applied Nonparametric Econometrics  (UCL) \hfill J. Racine
 
-Fixed Effects Treatment of Panel Data \hfill B. Honore
+Fixed Effects Treatment of Panel Data  (UCL) \hfill B. Honore
