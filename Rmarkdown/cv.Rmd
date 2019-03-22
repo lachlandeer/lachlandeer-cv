@@ -181,11 +181,66 @@ Summer Research Scholarship, University of Adelaide. \hfill 2006
 
 # REFERENCES
 
-Available on Request.
 
 \newpage
 
 # RESEARCH ABSTRACTS
+
+## JOB MARKET PAPER
+
+TBD
+
+## COMPLETED PAPERS
+The Regulation of Public Service Broadcasters: Should there be more advertising on television?
+
+*Abstract*:
+Increased competition for viewers’ time is threatening the viability of public-service broadcasters (PSBs) around the world.
+Changing regulations regarding advertising minutes might increase revenues, but little is known about the structure of advertising demand.
+To address this problem, we collect a unique dataset on monthly impacts (quantities) and prices of UK television channels between 2002 and 2009 to estimate the (inverse) demand for advertising on both public and commercial broadcasters.
+We find that increasing PSB advertising minutes to the level permitted for non-PSBs would increase PSB and industry revenue by 10.5% and 6.7%.
+
+Gender Effects and Loss Aversion: Yes, No, Maybe?
+
+ *Abstract*:
+ Gender effects in risk taking have attracted much attention by economists, and remain debated.
+ Loss aversion — the stylized finding that a given loss carries substantially greater weight for decisions than a monetarily equivalent gain — is a fundamental driver of risk aversion.
+ We deploy four definitions of loss aversion commonly used in the literature to investigate gender effects.
+ Even though the definitions only differ in subtle ways, we find women to be more loss averse than men according to one definition, while another definition results in no gender differences, and the remaining two definitions point to women being less loss averse than men.
+ Conceptually, these contradictory effects can be organized by systematic measurement error resulting from model mis-specifications relative to the true underlying decision process.
+
+Pledges of Commitment and Cooperation in Partnerships
+
+*Abstract*: We use experimental methods to investigate whether pledges of commitment can improve cooperation in endogenously formed partnerships facing a social dilemma.
+Treatments vary in terms of the individual’s:
+    (1) opportunity to commit to their partner;
+    (2) the cost of dissolving committed partnerships; and
+    (3) the distribution of these dissolution costs between partners.
+Our findings show that pledges of commitment alone can increase cooperation and welfare in committed partnerships.
+The introduction of relatively large and equally split costs yields similar gains.
+In contrast, when costs to dissolve committed partnerships fall solely on the individual choosing to break up, pledges of commitment fail to improve cooperation and welfare
+
+## IN PROGRESS
+
+Endogenous Riot Networks
+
+*Abstract*:
+We analyze binary choice models in communication networks, in which both, the formation of links in the network as well as the action choices are endogenous.
+We provide a complete characterization of  the equilibrium action choices and networks, where agents choose their strategies - actions and links - according to a perturbed best response update rule. #
+We show that a threshold exists in the linking cost and the conformity parameter, giving rise to either a sparse or a densely connected communication network.
+Moreover, we show how the theoretical model can be efficiently estimated using cross sectional data on agents choices and their network of interactions.
+We then bring the model to the data by using a unique dataset of Twitter users that allows us to construct their social networks during the popular uprisings in all north African countries during the Arab spring.
+We use machine learning methods to map the textual content of tweets back to the model primitives and estimate the full structural model.
+
+Trendy Topics: The Evolution of Research Topics and Methods in Leading Economics Journals
+
+*Abstract*:
+This study investigates the content of the published scientific literature in the economics journals over 2000 to 2017.
+I collect published journal abstracts from 30 of the leading economics journals.
+I develop a Structural Topic Model to reveal the temporal dynamics of published papers across journals.
+Preliminary results show that topics initially penetrate “top 5” journals before being picked up by field journals.
+The analysis also reveals the specificities of each journal and identifies groups of journals with similar content – the results of which are not always consistent with prevailing wisdom.
+The results provide an objective view of the published literature and are of interest to authors, editors, journals and publishers.
+
 
 \newpage
 
