@@ -8,14 +8,14 @@ geometry: margin=0.8in
 title: "CV"
 author: "Lachlan Deer"
 orcid: "https://orcid.org/0000-0001-8646-6095"
-jobtitle: "PhD Candidate in Economics, University of Zurich"
-address: "Schoenberggasse 1 · Zurich · CH-8001"
+jobtitle: "Postdoctoral Fellow, Booth School of Business, University of Chicago"
+address: "5807 South Woodlawn Avenue · Chicago · IL 60637"
 fontawesome: yes
 email: lachlan.deer@gmail.com
 github: lachlandeer
 #phone: "+41 787-698-789"
 web: 'lachlandeer.github.io'
-updated: yes
+updated: no
 
 keywords: RMarkdown, academic CV, template
 
@@ -25,6 +25,10 @@ fontsize: 10pt
 linkcolor: blue
 urlcolor: blue
 ---
+
+# EMPLOYMENT
+
+*Booth School of Business, University of Chicago*, Postdoctoral Fellow. \hfill 07/2019 - current
 
 # EDUCATION
 
@@ -42,26 +46,30 @@ CRS Fellow, Centre for Reproducible Science, University of Zurich. \hfill 2019
 
 # RESEARCH INTERESTS
 
-Empirical Industrial Organization, Quantitative Marketing, Structural Econometrics, Media Economics,
-Advertising, Behavioural Economics.
+Quantitative Marketing, Empirical Industrial Organization, Digital Marketing, Applied Econometrics, Media Economics.
 
-# PUBLICATION
+# RESEARCH PAPERS
+
+## JOB MARKET PAPER
+
+TBD.
+
+## PUBLICATION
 **L. Deer** and R-C. Bayer, 2016, "*Pledges of Commitment and Cooperation in Partnerships*," Games 7(1) Art. No. 4.
 
-# WORKING PAPERS
+## WORKING PAPERS
 G.S. Crawford, **L. Deer**, J. Smith and P. Sturgeon, 2017, "*The Regulation of Public Service Broadcasters: Should there be more advertising on television?*," CEPR Discussion Paper 12428 (Revise and Resubmit at IJIO).
 
 R. Bouchouicha, **L. Deer**, A. Eid, P. McGee, D. Schoch and H. Stojic, Y. Ygosse-Battisti and F. Vieider, 2018, "*Gender Effects and Loss Aversion: Yes, No, Maybe?*," Working Paper.
 
-# WORK IN PROGRESS
+## WORK IN PROGRESS (SELECTED)
 **L. Deer**, P.K. Chintagunta and G.S. Crawford, "*The Impact of Twitter on New Product Performance*."
 
 **L. Deer**, P.K. Chintagunta and G.S. Crawford, "*How Advertising Influences Word of Mouth: Evidence from Twitter*."
 
-
 F. Javier Barreda,  CS Hsieh, **L. Deer**,  M. Koenig and F. Vega Redondo, "*Endogenous Riot Networks*."
 
-**L. Deer** and P. Schmidt, "*Swipe Right for an STI? Tinder and the increase STIs in the United States*."
+<!-- **L. Deer** and P. Schmidt, "*Swipe Right for an STI? Tinder and the increase STIs in the United States*." -->
 
 **L. Deer**, "*Trendy Topics: The Evolution of Research Topics and Methods in Leading Economics Journals.*"
 
@@ -69,9 +77,9 @@ F. Javier Barreda,  CS Hsieh, **L. Deer**,  M. Koenig and F. Vega Redondo, "*End
 
 <!-- R-C. Bayer and **L. Deer**, "*Consumption and Asset Trading Behaviour in a Dynamic Experimental Economy*." -->
 
-**L. Deer** and C. Oertel, "*Nested Logit Demand Estimation with Aggregate Market Shares in `R`*." (`R` package)
+<!-- **L. Deer** and C. Oertel, "*Nested Logit Demand Estimation with Aggregate Market Shares in `R`*." (`R` package)
 
-**L. Deer** and C. Oertel, "*Merger Simulation in `R`*." (`R` package)
+**L. Deer** and C. Oertel, "*Merger Simulation in `R`*." (`R` package) -->
 
 # ACADEMIC PRESENTATIONS
 
@@ -89,18 +97,18 @@ F. Javier Barreda,  CS Hsieh, **L. Deer**,  M. Koenig and F. Vega Redondo, "*End
 
 *2011*: Econometric Society - Australasian Meeting, Australian Conference of Economists, Australia and New Zealand Workshop on Experimental Economics.
 
-# AWARDS
+# AWARDS & RESEARCH GRANTS
 
-## External
-<!-- SNF Early PostDoc.Mobility Grant (Host Institute - Chicago Booth School of Business. \hfill July 2019 - Dec 2020) -->
+## EXTERNAL
+SNF Early PostDoc.Mobility Grant (Host Institute - Chicago Booth School of Business). \hfill 07/2019 - 12/2020
 
-SNF Doc.Mobility Grant (Host Institution - Stanford GSB). \hfill 2016-2017
+SNF Doc.Mobility Grant (Host Institution - Stanford GSB). \hfill 09/2016 - 05/2017
 
 Econometric Society Travel Grant. \hfill 2012
 
 Australian Postgraduate Award. \hfill 2010-2012
 
-## Internal
+## INTERNAL
 Dissertation Fellowship, University of Zurich. \hfill 2018-2019
 
 Department Scholarship for PhD Students, University of Zurich. \hfill 2013-2018
@@ -116,17 +124,16 @@ School of Economics Merit List, University of Adelaide. \hfill 2005-2007
 Summer Research Scholarship, University of Adelaide. \hfill 2006
 
 
-# TEACHING
-
-*Instructor, Software Carpentry and Data Carpentry* \hfill 2016-current
-
-> 2-day programming workshops at U Zurich (February 2019), University of Trento (November 2018), University of Geneva (March 2018), Karolinska Institute  (October 2017), Stanford (June 2017), Federal Reserve Board of Governors (May 2017) and Federal Reserve in Kansas City (Feb 2017).
-
+# TEACHING EXPERIENCE
 *Instructor, University of Zurich* \hfill 2016-2019
 
-> Programming Practices for Research in Economics: Foundations (4 day course, Winter 2019).
+> Programming Practices for Research in Economics: Foundations (4 day intensive course, Winter 2019).
 
 > Programming Practices for Research in Economics (3 week intensive course, Summer 2016 & Summer 2017).
+
+*Instructor, Software Carpentry and Data Carpentry* \hfill 2016-2019
+
+> 2-day programming workshops at U Zurich (February 2019), University of Trento (November 2018), University of Geneva (March 2018), Karolinska Institute  (October 2017), Stanford (June 2017), Federal Reserve Board of Governors (May 2017) and Federal Reserve in Kansas City (Feb 2017).
 
 *Teaching Assistant, University of Zurich* \hfill 2014-2016
 
@@ -175,3 +182,11 @@ Summer Research Scholarship, University of Adelaide. \hfill 2006
 # REFERENCES
 
 Available on Request.
+
+\newpage
+
+# RESEARCH ABSTRACTS
+
+\newpage
+
+# PHD COURSEWORK
