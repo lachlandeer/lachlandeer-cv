@@ -52,7 +52,7 @@ Quantitative Marketing, Empirical Industrial Organization, Digital Marketing, Ap
 
 ## JOB MARKET PAPER
 
-TBD.
+**L. Deer**, P.K. Chintagunta and G.S. Crawford, "*The Impact of Twitter on New Product Performance*."
 
 ## PUBLICATION
 **L. Deer** and R-C. Bayer, 2016, "*Pledges of Commitment and Cooperation in Partnerships*," Games 7(1) Art. No. 4.
@@ -63,9 +63,10 @@ G.S. Crawford, **L. Deer**, J. Smith and P. Sturgeon, 2017, "*The Regulation of 
 R. Bouchouicha, **L. Deer**, A. Eid, P. McGee, D. Schoch and H. Stojic, Y. Ygosse-Battisti and F. Vieider, 2018, "*Gender Effects and Loss Aversion: Yes, No, Maybe?*," Working Paper.
 
 ## WORK IN PROGRESS (SELECTED)
-**L. Deer**, P.K. Chintagunta and G.S. Crawford, "*The Impact of Twitter on New Product Performance*."
 
 **L. Deer**, P.K. Chintagunta and G.S. Crawford, "*How Advertising Influences Word of Mouth: Evidence from Twitter*."
+
+**L. Deer**, P.K. Chintagunta and G.S. Crawford, "*What Consumers Tweet About: Evidence from Movie Tweets*"
 
 F. Javier Barreda,  CS Hsieh, **L. Deer**,  M. Koenig and F. Vega Redondo, "*Endogenous Riot Networks*."
 
@@ -216,6 +217,9 @@ Phone: +1-773-702-8015 -->
 
 ## JOB MARKET PAPER
 
+The Impact of Twitter on New Product Performance
+
+*Abstract*:
 TBD
 
 ## COMPLETED PAPERS
@@ -249,6 +253,11 @@ In contrast, when costs to dissolve committed partnerships fall solely on the in
 
 ## IN PROGRESS
 
+How Advertising Influences Word of Mouth: Evidence from Twitter
+
+*Abstract*:
+TBD.
+
 Endogenous Riot Networks
 
 *Abstract*:
@@ -258,6 +267,11 @@ We show that a threshold exists in the linking cost and the conformity parameter
 Moreover, we show how the theoretical model can be efficiently estimated using cross sectional data on agents choices and their network of interactions.
 We then bring the model to the data by using a unique dataset of Twitter users that allows us to construct their social networks during the popular uprisings in all north African countries during the Arab spring.
 We use machine learning methods to map the textual content of tweets back to the model primitives and estimate the full structural model.
+
+What Consumers Tweet About: Evidence from Movie Tweets
+
+*Abstract*:
+TBD.
 
 Trendy Topics: The Evolution of Research Topics and Methods in Leading Economics Journals
 
