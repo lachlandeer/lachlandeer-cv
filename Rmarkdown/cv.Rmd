@@ -135,14 +135,14 @@ Summer Research Scholarship, University of Adelaide. \hfill 2006
 
 > 2-day programming workshops at U Zurich (February 2019), University of Trento (November 2018), University of Geneva (March 2018), Karolinska Institute  (October 2017), Stanford (June 2017), Federal Reserve Board of Governors (May 2017) and Federal Reserve in Kansas City (Feb 2017).
 
-*Teaching Assistant, University of Zurich* \hfill 2014-2016
+*Teaching Assistant, University of Zurich* \hfill 2014-2019
 
 > Cross Section and Panel Data Econometrics (×2), Empirical Analysis of Asymmetric Information in Banking and Insurance Markets.
 
 > Thesis Supervision: 7 $\times$ Bachelor's Theses, 4 $\times$ Master's Theses.
 
 
-*Teaching Assistant, School of Economics, University of Adelaide* \hfill 2009-2012
+*Teaching Assistant, School of Economics, University of Adelaide* \hfill 2008-2012
 
 > Business and Economic Statistics (×2), Intermediate Mathematical Economics, Intermediate Microeconomics (×4), International Financial Institutions and Markets, Macroeconomic Theory and Policy, Managerial Economics (×2), Money Banking and Financial Markets, Public Finance, Principles of Economics (×2), Principles of Macroeconomics (×2), Principles of Microeconomics I.
 
@@ -150,11 +150,11 @@ Summer Research Scholarship, University of Adelaide. \hfill 2006
 
 > Principles of Macroeconomics (Summer).
 
-*Instructor, Bradford College, University of Adelaide* \hfill 2009
+*Instructor, Bradford College, University of Adelaide* \hfill 2008 & 2010
 
 > International Financial Institutions and Markets, Principles of Macroeconomics.
 
-*Teaching Assistant, Flinders Business School, Flinders University* \hfill 2009
+*Teaching Assistant, Flinders Business School, Flinders University* \hfill 2008
 
 > Principles of Macroeconomics.
 
@@ -177,6 +177,7 @@ Summer Research Scholarship, University of Adelaide. \hfill 2006
     Data Cleaning with OpenRefine for Social Scientists,
     Introduction to Geospatial Data with R,
     Data Analysis and Visualization in R (Ecology),
+    Data Management with SQL for Ecologists,
     R for Reproducible Scientific Analysis.
 
 # REFERENCES
