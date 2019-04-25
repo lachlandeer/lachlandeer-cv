@@ -319,7 +319,7 @@ Bayesian Inference: Methods & Applications (Stanford GSB) \hfill S. Naranyan
 
 Quantitative Methods for Empirical Research (Stanford GSB) \hfill G. Imbens
 
-Statistical Learning Theory (ETH Computer Science) \hfill J.M. Buhmann
+Statistical Learning Theory (ETH Zurich, Computer Science) \hfill J.M. Buhmann
 
 ## SHORT COURSES & SUMMER SCHOOLS
 
