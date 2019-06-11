@@ -68,7 +68,7 @@ R. Bouchouicha, **L. Deer**, A. Eid, P. McGee, D. Schoch and H. Stojic, Y. Ygoss
 
 <!-- **L. Deer**, P.K. Chintagunta and G.S. Crawford, "*What Consumers Tweet About: Evidence from Movie Tweets*" -->
 
-F. Javier Barreda, **L. Deer**, CS Hsieh,  M. Koenig, A. Polanski and F. Vega Redondo, "*Endogenous Riot Networks*."
+F. Javier Barreda, **L. Deer**, CS Hsieh,  M. Koenig, Gizem Korkmaz and F. Vega Redondo, "*Endogenous Riot Networks*."
 
 <!-- **L. Deer** and P. Schmidt, "*Swipe Right for an STI? Tinder and the increase STIs in the United States*." -->
 
