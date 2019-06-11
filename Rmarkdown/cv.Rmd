@@ -8,14 +8,14 @@ geometry: margin=0.8in
 title: "CV"
 author: "Lachlan Deer"
 orcid: "https://orcid.org/0000-0001-8646-6095"
-jobtitle: "Postdoctoral Fellow, Booth School of Business, University of Chicago"
-address: "5807 South Woodlawn Avenue · Chicago · IL 60637"
+jobtitle: "PhD Candidate, Department of Economics, University of Zurich"
+address: "Schoenberggasse 1, Zurich, CH 8001"
 fontawesome: yes
 email: lachlan.deer@gmail.com
-github: lachlandeer
-#phone: "+41 787-698-789"
+#github: lachlandeer
+phone: "+41 787-698-789"
 web: 'lachlandeer.github.io'
-updated: no
+#updated: no
 
 keywords: RMarkdown, academic CV, template
 
@@ -26,13 +26,13 @@ linkcolor: blue
 urlcolor: blue
 ---
 
-# EMPLOYMENT
+# FORTHCOMING EMPLOYMENT
 
-*Booth School of Business, University of Chicago*, Postdoctoral Fellow. \hfill 07/2019 - current
+*Booth School of Business, University of Chicago*, Postdoctoral Fellow. \hfill 08/2019 - 10/2020
 
 # EDUCATION
 
-*University of Zurich*, Ph.D. in Economics. \hfill 2013-2019 (exp.)
+*University of Zurich*, Ph.D. in Economics. \hfill 2013-07/2019 (exp.)
 
 *University College London*, M.Sc in Economics (with Distinction). \hfill 2013
 
@@ -52,7 +52,7 @@ Quantitative Marketing, Empirical Industrial Organization, Digital Marketing, Ap
 
 ## JOB MARKET PAPER
 
-**L. Deer**, P.K. Chintagunta and G.S. Crawford, "*The Impact of Twitter on New Product Performance*."
+**L. Deer**, P.K. Chintagunta and G.S. Crawford, "*Online Word of Mouth and the Performance of New Products*."
 
 ## PUBLICATION
 **L. Deer** and R-C. Bayer, 2016, "*Pledges of Commitment and Cooperation in Partnerships*," Games 7(1) Art. No. 4.
@@ -64,11 +64,11 @@ R. Bouchouicha, **L. Deer**, A. Eid, P. McGee, D. Schoch and H. Stojic, Y. Ygoss
 
 ## WORK IN PROGRESS (SELECTED)
 
-**L. Deer**, P.K. Chintagunta and G.S. Crawford, "*How Advertising Influences Word of Mouth: Evidence from Twitter*."
+**L. Deer**, P.K. Chintagunta and G.S. Crawford, "*How does Advertising Influence Online Word of Mouth? Evidence from Twitter*."
 
-**L. Deer**, P.K. Chintagunta and G.S. Crawford, "*What Consumers Tweet About: Evidence from Movie Tweets*"
+<!-- **L. Deer**, P.K. Chintagunta and G.S. Crawford, "*What Consumers Tweet About: Evidence from Movie Tweets*" -->
 
-F. Javier Barreda,  CS Hsieh, **L. Deer**,  M. Koenig and F. Vega Redondo, "*Endogenous Riot Networks*."
+F. Javier Barreda, **L. Deer**, CS Hsieh,  M. Koenig, A. Polanski and F. Vega Redondo, "*Endogenous Riot Networks*."
 
 <!-- **L. Deer** and P. Schmidt, "*Swipe Right for an STI? Tinder and the increase STIs in the United States*." -->
 
@@ -92,7 +92,7 @@ F. Javier Barreda,  CS Hsieh, **L. Deer**,  M. Koenig and F. Vega Redondo, "*End
 
 *2016*: Econometric Society - Australasian Meeting, Australian Conference of Economists.
 
-*2015*: Zurich Workshop in Economics, ESA Europe.
+*2015*: Zurich Workshop in Economics, ESA European Meeting.
 
 *2012*: Econometric Society - Australasian Meeting.
 
@@ -217,10 +217,16 @@ Phone: +1-773-702-8015 -->
 
 ## JOB MARKET PAPER
 
-The Impact of Twitter on New Product Performance
+Online Word of Mouth and the Performance of New Products
 
 *Abstract*:
-TBD
+We investigate the effects of online word of mouth on the demand for new products using Twitter data.
+Twitter can both generate buzz & awareness as well as provide information on product quality that can readily diffuse through the population.
+Leveraging comprehensive data from the US movie industry and Twitter, we estimate a structural model of consumer demand for attending theatrical releases in 2014-2015 that incorporates both information channels.
+The results show that both channels are important, but differ across types of movies.
+We find pre-release tweet volume is the most important channel for large franchise movies, generating buzz that influences box office earnings on the opening weekend.
+Demand for mid tier movies responds to increasing awareness driven by the volume of tweets posted after a movie is released.
+In contrast, the sentiment expressed in online WoM after a movie’s release influences box office demand in subsequent weekends for smaller movies.
 
 ## COMPLETED PAPERS
 The Regulation of Public Service Broadcasters: Should there be more advertising on television?
@@ -253,25 +259,26 @@ In contrast, when costs to dissolve committed partnerships fall solely on the in
 
 ## IN PROGRESS
 
-How Advertising Influences Word of Mouth: Evidence from Twitter
+How does Advertising Influence Online Word of Mouth? Evidence from Twitter
 
 *Abstract*:
-TBD.
+This paper investigates whether firms' advertising influences online consumer word of mouth in new product markets.
+The increasing importance of online WoM in consumer decision making paired with the rise of 'second screening' by consumers means that firms are increasingly seeking to understanding how TV advertising impacts online behaviour.
+We utilize a large, granular data set on minute-by-minute tweeting behaviour for all wide release movies in the United States over 2014/2015 and match it with data on individual ad insertions on national television to study whether TV ads lead to short-run spikes in online WoM.
+Our econometric approach utilizes a high dimensional fixed effects strategy to control for the quantity of consumer tweets that are not driven by advertising.
+Preliminary results show that TV ads cause short term increases in online WoM with an extra TV ad leading to 3.5 extra tweets, the equivalent of 1.5 additional minutes of tweeting in minutes where there is no TV advertising.
+We also show that the effect of ads on tweeting only exists pre-release, and is larger the further away an ad is from the release date.
 
 Endogenous Riot Networks
 
 *Abstract*:
 We analyze binary choice models in communication networks, in which both, the formation of links in the network as well as the action choices are endogenous.
-We provide a complete characterization of  the equilibrium action choices and networks, where agents choose their strategies - actions and links - according to a perturbed best response update rule. #
+In particular we study the situation where an individual's payoffs are influenced by their own ideology, decisions of peers and beliefs about the actions of the entire population.
+We provide a complete characterization of  the equilibrium action choices and networks, where agents choose their strategies - actions and links - according to a perturbed best response update rule.
 We show that a threshold exists in the linking cost and the conformity parameter, giving rise to either a sparse or a densely connected communication network.
-Moreover, we show how the theoretical model can be efficiently estimated using cross sectional data on agents choices and their network of interactions.
-We then bring the model to the data by using a unique dataset of Twitter users that allows us to construct their social networks during the popular uprisings in all north African countries during the Arab spring.
-We use machine learning methods to map the textual content of tweets back to the model primitives and estimate the full structural model.
-
-What Consumers Tweet About: Evidence from Movie Tweets
-
-*Abstract*:
-TBD.
+Moreover, we show how the theoretical model can be efficiently estimated using data on agents choices and their network of interactions.
+We then structurally estimate the model using datasets of Twitter users that allows us to construct their social networks during the popular uprisings in Latin America and the Arab Spring.
+Preliminary results emphasize the importance of the actions made by both peers (local effects) and the wider network (global effects).
 
 Trendy Topics: The Evolution of Research Topics and Methods in Leading Economics Journals
 
