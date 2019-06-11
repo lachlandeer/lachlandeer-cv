@@ -46,7 +46,7 @@ CRS Fellow, Centre for Reproducible Science, University of Zurich. \hfill 2019
 
 # RESEARCH INTERESTS
 
-Quantitative Marketing, Empirical Industrial Organization, Digital Marketing, Applied Econometrics, Media Economics.
+Quantitative Marketing, Digital Marketing, Applied Econometrics, Media Economics, Text as Data.
 
 # RESEARCH PAPERS
 
