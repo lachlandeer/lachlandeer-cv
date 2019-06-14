@@ -46,7 +46,7 @@ CRS Fellow, Centre for Reproducible Science, University of Zurich. \hfill 2019
 
 # RESEARCH INTERESTS
 
-Quantitative Marketing, Digital Marketing, Applied Econometrics, Media Economics, Text as Data.
+Quantitative Marketing, Digital Marketing, Applied Econometrics, Text as Data, Media Economics.
 
 # RESEARCH PAPERS
 
@@ -54,21 +54,15 @@ Quantitative Marketing, Digital Marketing, Applied Econometrics, Media Economics
 
 **L. Deer**, P.K. Chintagunta and G.S. Crawford, "*Online Word of Mouth and the Performance of New Products*."
 
-## PUBLICATION
-**L. Deer** and R-C. Bayer, 2016, "*Pledges of Commitment and Cooperation in Partnerships*," Games 7(1) Art. No. 4.
-
-## WORKING PAPERS
-G.S. Crawford, **L. Deer**, J. Smith and P. Sturgeon, 2017, "*The Regulation of Public Service Broadcasters: Should there be more advertising on television?*," CEPR Discussion Paper 12428 (Revise and Resubmit at IJIO).
-
-R. Bouchouicha, **L. Deer**, A. Eid, P. McGee, D. Schoch and H. Stojic, Y. Ygosse-Battisti and F. Vieider, 2018, "*Gender Effects and Loss Aversion: Yes, No, Maybe?*," Working Paper.
-
 ## WORK IN PROGRESS (SELECTED)
 
 **L. Deer**, P.K. Chintagunta and G.S. Crawford, "*How does Advertising Influence Online Word of Mouth? Evidence from Twitter*."
 
 <!-- **L. Deer**, P.K. Chintagunta and G.S. Crawford, "*What Consumers Tweet About: Evidence from Movie Tweets*" -->
 
-F. Javier Barreda, **L. Deer**, CS Hsieh,  M. Koenig, Gizem Korkmaz and F. Vega Redondo, "*Endogenous Riot Networks*."
+F. Javier Barreda, **L. Deer**, CS. Hsieh,  M. Koenig, G. Korkmaz and F. Vega Redondo, "*Endogenous Riot Networks*."
+
+**L. Deer**, "*Quantifying Product Buzz*."
 
 <!-- **L. Deer** and P. Schmidt, "*Swipe Right for an STI? Tinder and the increase STIs in the United States*." -->
 
@@ -81,6 +75,14 @@ F. Javier Barreda, **L. Deer**, CS Hsieh,  M. Koenig, Gizem Korkmaz and F. Vega 
 <!-- **L. Deer** and C. Oertel, "*Nested Logit Demand Estimation with Aggregate Market Shares in `R`*." (`R` package)
 
 **L. Deer** and C. Oertel, "*Merger Simulation in `R`*." (`R` package) -->
+
+## WORKING PAPERS
+G.S. Crawford, **L. Deer**, J. Smith and P. Sturgeon, 2017, "*The Regulation of Public Service Broadcasters: Should there be more advertising on television?*," CEPR Discussion Paper 12428 (Revise and Resubmit at IJIO).
+
+R. Bouchouicha, **L. Deer**, A. Eid, P. McGee, D. Schoch and H. Stojic, Y. Ygosse-Battisti and F. Vieider, 2018, "*Gender Effects and Loss Aversion: Yes, No, Maybe?*," Working Paper.
+
+## PUBLICATION
+**L. Deer** and R-C. Bayer, 2016, "*Pledges of Commitment and Cooperation in Partnerships*," Games 7(1) Art. No. 4.
 
 # ACADEMIC PRESENTATIONS
 
@@ -140,7 +142,7 @@ Summer Research Scholarship, University of Adelaide. \hfill 2006
 
 > Cross Section and Panel Data Econometrics (×2), Empirical Analysis of Asymmetric Information in Banking and Insurance Markets.
 
-> Thesis Supervision: 7 $\times$ Bachelor's Theses, 4 $\times$ Master's Theses.
+> Thesis Supervision: 8 $\times$ Bachelor's Theses, 4 $\times$ Master's Theses.
 
 
 *Teaching Assistant, School of Economics, University of Adelaide* \hfill 2008-2012
@@ -193,7 +195,7 @@ University of Zurich  \hfill Booth School of Business
 
 gregory.crawford@econ.uzh.ch \hfill University of Chicago
 
-+41 44 634 37 99 \hfill pradeep.chintagunta@chicagobooth.edu
++41 44 634 37 99 \hfill chintagunta.deer.ama@gmail.com
 
 \hfill +1-773-702-8015
 
@@ -227,35 +229,6 @@ The results show that both channels are important, but differ across types of mo
 We find pre-release tweet volume is the most important channel for large franchise movies, generating buzz that influences box office earnings on the opening weekend.
 Demand for mid tier movies responds to increasing awareness driven by the volume of tweets posted after a movie is released.
 In contrast, the sentiment expressed in online WoM after a movie’s release influences box office demand in subsequent weekends for smaller movies.
-
-## COMPLETED PAPERS
-The Regulation of Public Service Broadcasters: Should there be more advertising on television?
-
-*Abstract*:
-Increased competition for viewers’ time is threatening the viability of public-service broadcasters (PSBs) around the world.
-Changing regulations regarding advertising minutes might increase revenues, but little is known about the structure of advertising demand.
-To address this problem, we collect a unique dataset on monthly impacts (quantities) and prices of UK television channels between 2002 and 2009 to estimate the (inverse) demand for advertising on both public and commercial broadcasters.
-We find that increasing PSB advertising minutes to the level permitted for non-PSBs would increase PSB and industry revenue by 10.5% and 6.7%.
-
-Gender Effects and Loss Aversion: Yes, No, Maybe?
-
- *Abstract*:
- Gender effects in risk taking have attracted much attention by economists, and remain debated.
- Loss aversion — the stylized finding that a given loss carries substantially greater weight for decisions than a monetarily equivalent gain — is a fundamental driver of risk aversion.
- We deploy four definitions of loss aversion commonly used in the literature to investigate gender effects.
- Even though the definitions only differ in subtle ways, we find women to be more loss averse than men according to one definition, while another definition results in no gender differences, and the remaining two definitions point to women being less loss averse than men.
- Conceptually, these contradictory effects can be organized by systematic measurement error resulting from model mis-specifications relative to the true underlying decision process.
-
-Pledges of Commitment and Cooperation in Partnerships
-
-*Abstract*: We use experimental methods to investigate whether pledges of commitment can improve cooperation in endogenously formed partnerships facing a social dilemma.
-Treatments vary in terms of the individual’s:
-    (1) opportunity to commit to their partner;
-    (2) the cost of dissolving committed partnerships; and
-    (3) the distribution of these dissolution costs between partners.
-Our findings show that pledges of commitment alone can increase cooperation and welfare in committed partnerships.
-The introduction of relatively large and equally split costs yields similar gains.
-In contrast, when costs to dissolve committed partnerships fall solely on the individual choosing to break up, pledges of commitment fail to improve cooperation and welfare
 
 ## IN PROGRESS
 
@@ -292,6 +265,37 @@ The results provide an objective view of the published literature and are of int
 
 \newpage
 
+## COMPLETED PAPERS
+The Regulation of Public Service Broadcasters: Should there be more advertising on television?
+
+*Abstract*:
+Increased competition for viewers’ time is threatening the viability of public-service broadcasters (PSBs) around the world.
+Changing regulations regarding advertising minutes might increase revenues, but little is known about the structure of advertising demand.
+To address this problem, we collect a unique dataset on monthly impacts (quantities) and prices of UK television channels between 2002 and 2009 to estimate the (inverse) demand for advertising on both public and commercial broadcasters.
+We find that increasing PSB advertising minutes to the level permitted for non-PSBs would increase PSB and industry revenue by 10.5% and 6.7%.
+
+Gender Effects and Loss Aversion: Yes, No, Maybe?
+
+ *Abstract*:
+ Gender effects in risk taking have attracted much attention by economists, and remain debated.
+ Loss aversion — the stylized finding that a given loss carries substantially greater weight for decisions than a monetarily equivalent gain — is a fundamental driver of risk aversion.
+ We deploy four definitions of loss aversion commonly used in the literature to investigate gender effects.
+ Even though the definitions only differ in subtle ways, we find women to be more loss averse than men according to one definition, while another definition results in no gender differences, and the remaining two definitions point to women being less loss averse than men.
+ Conceptually, these contradictory effects can be organized by systematic measurement error resulting from model mis-specifications relative to the true underlying decision process.
+
+Pledges of Commitment and Cooperation in Partnerships
+
+*Abstract*: We use experimental methods to investigate whether pledges of commitment can improve cooperation in endogenously formed partnerships facing a social dilemma.
+Treatments vary in terms of the individual’s:
+    (1) opportunity to commit to their partner;
+    (2) the cost of dissolving committed partnerships; and
+    (3) the distribution of these dissolution costs between partners.
+Our findings show that pledges of commitment alone can increase cooperation and welfare in committed partnerships.
+The introduction of relatively large and equally split costs yields similar gains.
+In contrast, when costs to dissolve committed partnerships fall solely on the individual choosing to break up, pledges of commitment fail to improve cooperation and welfare
+
+\newpage
+
 # PHD COURSEWORK
 
 ## COURSEWORK AT UNIVERSITY OF ZURICH
@@ -304,7 +308,7 @@ Econometrics for Research Students I \hfill M. Wolff
 
 Econometrics for Research Students II \hfill R. Winkelmann
 
-Macroeconomics for Research Students I \hfill F. Zilabotti & C. Winter
+Macroeconomics for Research Students I \hfill F. Zilibotti & C. Winter
 
 Macroeconomics for Research Students II \hfill C. Winter, M.Rendall & F. Brutti
 
@@ -348,7 +352,7 @@ Machine Learning for Treatment Effects and Structural Equation Models  (UCL) \hf
 
 Empirical Models of Differentiated Products (UCL) \hfill S. Berry
 
-Dynamic Programming Theory, computation and empirical applications  (UCL) \hfill J. Rust, F. Ishakov, B. Scherning
+Dynamic Programming Theory, Computation and Empirical Applications  (UCL) \hfill J. Rust, F. Ishakov, B. Scherning
 
 Applied Nonparametric Econometrics  (UCL) \hfill J. Racine
 
