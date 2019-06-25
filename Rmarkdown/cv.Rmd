@@ -270,6 +270,14 @@ The results provide an objective view of the published literature and are of int
 *Quantifying Product Buzz*
 
 *Abstract*:
+Building product buzz, defined as emotion, energy, excitement, or anticipation expressed by consumers about a product, has become an essential part of modern marketing practice surrounding the launch of new products.
+Despite its' perceived importance there is limited work that has tried to quantify product buzz around a product's impending release.
+This paper develops a machine learning algorithm to quantify product buzz and track its evolution over time using social media data about new release movies from Twitter.
+The proposed algorithm proceeds in three steps:
+First, the algorithm classifies a tweet into one of three categories, consumer buzz, consumer review or firm generated content, based on a tweet's text and author.
+Second, the text of tweets that are classified as consumer buzz is analysed to measure emotion and anticipation.
+Third, the algorithm combines the volume of tweets, the emotions expressed within them and their dynamic properties to compute a measure of product buzz that evolves over time.
+The results are among the first to provide a quantitative assessment of product buzz using the volume and constent of social media data and are of interest to marketing managers and academic researchers.
 
 ## WORKING PAPERS
 [*The Regulation of Public Service Broadcasters: Should there be more advertising on television?*](http://www.econ.uzh.ch/static/wp/econwp268.pdf)
