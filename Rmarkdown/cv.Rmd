@@ -46,27 +46,27 @@ CRS Fellow, Centre for Reproducible Science, University of Zurich. \hfill 2019
 
 # RESEARCH INTERESTS
 
-Quantitative Marketing, Digital Marketing, Applied Econometrics, Text as Data, Media Economics.
+Quantitative Marketing, Digital Marketing, Text as Data, Applied Econometrics, Media Economics.
 
 # RESEARCH PAPERS
 
 ## JOB MARKET PAPER
 
-**L. Deer**, P.K. Chintagunta and G.S. Crawford, "*Online Word of Mouth and the Performance of New Products*."
+**L. Deer**, P.K. Chintagunta and G.S. Crawford, "[*Online Word of Mouth and the Performance of New Products*](http://lachlandeer.github.io/files/deer_jmp.pdf)."
 
-## WORK IN PROGRESS (SELECTED)
+## WORK IN PROGRESS
 
-**L. Deer**, P.K. Chintagunta and G.S. Crawford, "*How does Advertising Influence Online Word of Mouth? Evidence from Twitter*."
+**L. Deer**, P.K. Chintagunta and G.S. Crawford, "*How does Advertising Influence Online Word of Mouth? Evidence from Twitter*." ([Slides with preliminary results](http://lachlandeer.github.io/files/ads_wom_slides.pdf))
 
 <!-- **L. Deer**, P.K. Chintagunta and G.S. Crawford, "*What Consumers Tweet About: Evidence from Movie Tweets*" -->
 
-F. Javier Barreda, **L. Deer**, CS. Hsieh,  M. Koenig, G. Korkmaz and F. Vega Redondo, "*Endogenous Riot Networks*."
+F. Javier Barreda, **L. Deer**, CS. Hsieh,  M. Koenig, G. Korkmaz and F. Vega Redondo, "*Endogenous Riot Networks*." ([Slides with preliminary results](http://lachlandeer.github.io/files/riots_slides.pdf))
+
+**L. Deer**, "*Trendy Topics: The Evolution of Research Topics and Methods in Leading Economics Journals.*"
 
 **L. Deer**, "*Quantifying Product Buzz*."
 
 <!-- **L. Deer** and P. Schmidt, "*Swipe Right for an STI? Tinder and the increase STIs in the United States*." -->
-
-**L. Deer**, "*Trendy Topics: The Evolution of Research Topics and Methods in Leading Economics Journals.*"
 
 <!-- **L. Deer** and F. Vieder, "*Behaviourally Accurate Measures of Loss Aversion*." -->
 
@@ -76,13 +76,15 @@ F. Javier Barreda, **L. Deer**, CS. Hsieh,  M. Koenig, G. Korkmaz and F. Vega Re
 
 **L. Deer** and C. Oertel, "*Merger Simulation in `R`*." (`R` package) -->
 
-## WORKING PAPERS
-G.S. Crawford, **L. Deer**, J. Smith and P. Sturgeon, 2017, "*The Regulation of Public Service Broadcasters: Should there be more advertising on television?*," CEPR Discussion Paper 12428 (Revise and Resubmit at IJIO).
 
-R. Bouchouicha, **L. Deer**, A. Eid, P. McGee, D. Schoch and H. Stojic, Y. Ygosse-Battisti and F. Vieider, 2018, "*Gender Effects and Loss Aversion: Yes, No, Maybe?*," Working Paper.
+## WORKING PAPERS
+G.S. Crawford, **L. Deer**, J. Smith and P. Sturgeon, 2017, "[*The Regulation of Public Service Broadcasters: Should there be more advertising on television?*](http://www.econ.uzh.ch/static/wp/econwp268.pdf)," CEPR Discussion Paper 12428 (Revise and Resubmit at IJIO).
+
+R. Bouchouicha, **L. Deer**, A. Eid, P. McGee, D. Schoch and H. Stojic, Y. Ygosse-Battisti and F. Vieider, 2018, "[*Gender Effects and Loss Aversion: Yes, No, Maybe?*](http://lachlandeer.github.io/files/11_loss_aversion_gender.pdf)," Working Paper (Revise and Resubmit at Journal of Risk & Uncertainty).
 
 ## PUBLICATION
-**L. Deer** and R-C. Bayer, 2016, "*Pledges of Commitment and Cooperation in Partnerships*," Games 7(1) Art. No. 4.
+**L. Deer** and R-C. Bayer, 2016, "[*Pledges of Commitment and Cooperation in Partnerships*](http://www.mdpi.com/2073-4336/7/1/4/pdf)," Games 7(1) Art. No. 4.
+
 
 # ACADEMIC PRESENTATIONS
 
@@ -199,19 +201,19 @@ gregory.crawford@econ.uzh.ch \hfill University of Chicago
 
 \hfill +1-773-702-8015
 
-<!-- Professor Pradeep K. Chintagunta
+\vfill
 
-Joseph T. and Bernice S. Lewis Distinguished
+Professor Martin Natter \hfill Assist. Prof. Damian Kozbur
 
-Service Professor of Marketing,
+Chair of Marketing \hfill Assistant Professor
 
-Booth School of Business
+Department of Business Administration \hfill Department of Economics
 
-University of Chicago
+Univeristy of Zurich \hfill University of Zurich
 
-Email: pradeep.chintagunta@chicagobooth.edu
+martin.natter@business.uzh.ch \hfill damian.kozbur@econ.uzh.ch
 
-Phone: +1-773-702-8015 -->
++41 44 634 29 62 \hfill +41 44 634 55 65
 
 \newpage
 
@@ -219,7 +221,7 @@ Phone: +1-773-702-8015 -->
 
 ## JOB MARKET PAPER
 
-Online Word of Mouth and the Performance of New Products
+[*Online Word of Mouth and the Performance of New Products*](http://lachlandeer.github.io/files/deer_jmp.pdf)
 
 *Abstract*:
 We investigate the effects of online word of mouth on the demand for new products using Twitter data.
@@ -232,7 +234,7 @@ In contrast, the sentiment expressed in online WoM after a movie’s release inf
 
 ## IN PROGRESS
 
-How does Advertising Influence Online Word of Mouth? Evidence from Twitter
+*How does Advertising Influence Online Word of Mouth? Evidence from Twitter* ([Slides with preliminary results](http://lachlandeer.github.io/files/ads_wom_slides.pdf))
 
 *Abstract*:
 This paper investigates whether firms' advertising influences online consumer word of mouth in new product markets.
@@ -242,7 +244,7 @@ Our econometric approach utilizes a high dimensional fixed effects strategy to c
 Preliminary results show that TV ads cause short term increases in online WoM with an extra TV ad leading to 3.5 extra tweets, the equivalent of 1.5 additional minutes of tweeting in minutes where there is no TV advertising.
 We also show that the effect of ads on tweeting only exists pre-release, and is larger the further away an ad is from the release date.
 
-Endogenous Riot Networks
+*Endogenous Riot Networks* ([Slides with preliminary results](http://lachlandeer.github.io/files/riots_slides.pdf))
 
 *Abstract*:
 We analyze binary choice models in communication networks, in which both, the formation of links in the network as well as the action choices are endogenous.
@@ -253,7 +255,7 @@ Moreover, we show how the theoretical model can be efficiently estimated using d
 We then structurally estimate the model using datasets of Twitter users that allows us to construct their social networks during the popular uprisings in Latin America and the Arab Spring.
 Preliminary results emphasize the importance of the actions made by both peers (local effects) and the wider network (global effects).
 
-Trendy Topics: The Evolution of Research Topics and Methods in Leading Economics Journals
+*Trendy Topics: The Evolution of Research Topics and Methods in Leading Economics Journals*
 
 *Abstract*:
 This study investigates the content of the published scientific literature in the economics journals over 2000 to 2017.
@@ -265,8 +267,12 @@ The results provide an objective view of the published literature and are of int
 
 \newpage
 
-## COMPLETED PAPERS
-The Regulation of Public Service Broadcasters: Should there be more advertising on television?
+*Quantifying Product Buzz*
+
+*Abstract*:
+
+## WORKING PAPERS
+[*The Regulation of Public Service Broadcasters: Should there be more advertising on television?*](http://www.econ.uzh.ch/static/wp/econwp268.pdf)
 
 *Abstract*:
 Increased competition for viewers’ time is threatening the viability of public-service broadcasters (PSBs) around the world.
@@ -274,7 +280,7 @@ Changing regulations regarding advertising minutes might increase revenues, but 
 To address this problem, we collect a unique dataset on monthly impacts (quantities) and prices of UK television channels between 2002 and 2009 to estimate the (inverse) demand for advertising on both public and commercial broadcasters.
 We find that increasing PSB advertising minutes to the level permitted for non-PSBs would increase PSB and industry revenue by 10.5% and 6.7%.
 
-Gender Effects and Loss Aversion: Yes, No, Maybe?
+[*Gender Effects and Loss Aversion: Yes, No, Maybe?*](http://lachlandeer.github.io/files/11_loss_aversion_gender.pdf)
 
  *Abstract*:
  Gender effects in risk taking have attracted much attention by economists, and remain debated.
@@ -283,7 +289,8 @@ Gender Effects and Loss Aversion: Yes, No, Maybe?
  Even though the definitions only differ in subtle ways, we find women to be more loss averse than men according to one definition, while another definition results in no gender differences, and the remaining two definitions point to women being less loss averse than men.
  Conceptually, these contradictory effects can be organized by systematic measurement error resulting from model mis-specifications relative to the true underlying decision process.
 
-Pledges of Commitment and Cooperation in Partnerships
+## PUBLICATION
+[*Pledges of Commitment and Cooperation in Partnerships*](http://www.mdpi.com/2073-4336/7/1/4/pdf)
 
 *Abstract*: We use experimental methods to investigate whether pledges of commitment can improve cooperation in endogenously formed partnerships facing a social dilemma.
 Treatments vary in terms of the individual’s:
