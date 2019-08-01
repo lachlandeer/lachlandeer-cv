@@ -8,8 +8,8 @@ geometry: margin=0.8in
 title: "CV"
 author: "Lachlan Deer"
 orcid: "https://orcid.org/0000-0001-8646-6095"
-jobtitle: "PhD Candidate, Department of Economics, University of Zurich"
-address: "Schoenberggasse 1, Zurich, CH 8001"
+jobtitle: "Postdoctoral Fellow, University of Chicago Booth School of Business"
+address: "5807 S Woodlawn Ave, Chicago, IL 60637"
 fontawesome: yes
 email: lachlan.deer@gmail.com
 #github: lachlandeer
@@ -26,13 +26,13 @@ linkcolor: blue
 urlcolor: blue
 ---
 
-# FORTHCOMING EMPLOYMENT
+# CURRENT EMPLOYMENT
 
 *Booth School of Business, University of Chicago*, Postdoctoral Fellow. \hfill 08/2019 - 10/2020
 
 # EDUCATION
 
-*University of Zurich*, Ph.D. in Economics. \hfill 2013-07/2019 (exp.)
+*University of Zurich*, Ph.D. in Economics (summa cum laude). \hfill 2013-2019
 
 *University College London*, M.Sc in Economics (with Distinction). \hfill 2013
 
