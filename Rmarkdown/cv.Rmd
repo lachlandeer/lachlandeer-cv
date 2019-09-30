@@ -81,9 +81,11 @@ F. Javier Barreda, **L. Deer**, CS. Hsieh,  M. Koenig, G. Korkmaz and F. Vega Re
 ## WORKING PAPERS
 G.S. Crawford, **L. Deer**, J. Smith and P. Sturgeon, 2017, "[*The Regulation of Public Service Broadcasters: Should there be more advertising on television?*](http://www.econ.uzh.ch/static/wp/econwp268.pdf)," CEPR Discussion Paper 12428 (Revise and Resubmit at IJIO).
 
-R. Bouchouicha, **L. Deer**, A. Eid, P. McGee, D. Schoch and H. Stojic, Y. Ygosse-Battisti and F. Vieider, 2018, "[*Gender Effects and Loss Aversion: Yes, No, Maybe?*](http://lachlandeer.github.io/files/11_loss_aversion_gender.pdf)," Working Paper (Revise and Resubmit at Journal of Risk & Uncertainty).
 
-## PUBLICATION
+## PUBLICATIONS
+
+R. Bouchouicha, **L. Deer**, A. Eid, P. McGee, D. Schoch and H. Stojic, Y. Ygosse-Battisti and F. Vieider, *forthcoming*, "[*Gender Effects and Loss Aversion: Yes, No, Maybe?*](http://lachlandeer.github.io/files/loss_aversion_gender_preprint.pdf)," Journal of Risk and Uncertainty.
+
 **L. Deer** and R-C. Bayer, 2016, "[*Pledges of Commitment and Cooperation in Partnerships*](http://www.mdpi.com/2073-4336/7/1/4/pdf)," Games 7(1) Art. No. 4.
 
 
@@ -290,9 +292,12 @@ Changing regulations regarding advertising minutes might increase revenues, but 
 To address this problem, we collect a unique dataset on monthly impacts (quantities) and prices of UK television channels between 2002 and 2009 to estimate the (inverse) demand for advertising on both public and commercial broadcasters.
 We find that increasing PSB advertising minutes to the level permitted for non-PSBs would increase PSB and industry revenue by 10.5% and 6.7%.
 
-[*Gender Effects and Loss Aversion: Yes, No, Maybe?*](http://lachlandeer.github.io/files/11_loss_aversion_gender.pdf)
 
-**Status**: *R&R at the Journal of Risk and Uncertainty*
+## PUBLICATIONS
+
+[*Gender Effects and Loss Aversion: Yes, No, Maybe?*](http://lachlandeer.github.io/files/loss_aversion_gender_preprint.pdf)
+
+**Status**: *forthcoming at the Journal of Risk and Uncertainty*
 
  *Abstract*:
  Gender effects in risk taking have attracted signficant attention by economists, and remain widely debated.
@@ -301,7 +306,6 @@ We find that increasing PSB advertising minutes to the level permitted for non-P
  Even though the definitions only differ in subtle ways, we find women to be more loss averse than men according to one definition, while another definition results in no gender differences, and the remaining two definitions point to women being less loss averse than men.
  Conceptually, these contradictory effects can be organized by systematic measurement error resulting from model mis-specifications relative to the true underlying decision process.
 
-## PUBLICATION
 [*Pledges of Commitment and Cooperation in Partnerships*](http://www.mdpi.com/2073-4336/7/1/4/pdf)
 
 **Status**: *Published in Games, Volume 7, Issue 1, Article Number 4, "Special Issue on Experimental Studies of Social Dilemma Games"*
@@ -315,7 +319,7 @@ Our findings show that pledges of commitment alone can increase cooperation and 
 The introduction of relatively large and equally split costs yields similar gains.
 In contrast, when costs to dissolve committed partnerships fall solely on the individual choosing to break up, pledges of commitment fail to improve cooperation and welfare
 
-\newpage
+<!-- \newpage
 
 # PHD COURSEWORK
 
@@ -377,4 +381,4 @@ Dynamic Programming Theory, Computation and Empirical Applications  (UCL) \hfill
 
 Applied Nonparametric Econometrics  (UCL) \hfill J. Racine
 
-Fixed Effects Treatment of Panel Data  (UCL) \hfill B. Honore
+Fixed Effects Treatment of Panel Data  (UCL) \hfill B. Honore -->
