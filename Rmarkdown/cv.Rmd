@@ -13,7 +13,7 @@ address: "5807 S Woodlawn Ave, Chicago, IL 60637"
 fontawesome: yes
 email: lachlan.deer@gmail.com
 #github: lachlandeer
-phone: "+41 787-698-789"
+phone: "+1 (773)-742-3810"
 web: 'lachlandeer.github.io'
 #updated: no
 
@@ -133,11 +133,11 @@ Summer Research Scholarship, University of Adelaide. \hfill 2006
 
 
 # TEACHING EXPERIENCE
-*Instructor, University of Zurich* \hfill 2016-2019
+*Instructor, University of Zurich* \hfill 2016-2020
 
 > Programming Practices for Research in Economics: Foundations (4 day intensive course, Winter 2019).
 
-> Programming Practices for Research in Economics (3 week intensive course, Summer 2016 & Summer 2017).
+> Programming Practices for Research in Economics (3 week intensive course, Summer 2016 & Summer 2017, Winter 2020).
 
 *Instructor, Software Carpentry and Data Carpentry* \hfill 2016-2019
 
