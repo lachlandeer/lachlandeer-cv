@@ -91,7 +91,7 @@ R. Bouchouicha, **L. Deer**, A. Eid, P. McGee, D. Schoch and H. Stojic, Y. Ygoss
 
 # ACADEMIC PRESENTATIONS
 
-*2019*: EMAC, Marketing Dynamics, Marketing Science.
+*2019*: EMAC, Marketing Dynamics, Marketing Science, Mallen21.
 
 *2018*: U Adelaide, Bocconi, Swiss IO Day, Marketing Science, EEA-ESEM, EARIE, Mallen20.
 
@@ -319,7 +319,7 @@ Our findings show that pledges of commitment alone can increase cooperation and 
 The introduction of relatively large and equally split costs yields similar gains.
 In contrast, when costs to dissolve committed partnerships fall solely on the individual choosing to break up, pledges of commitment fail to improve cooperation and welfare
 
-<!-- \newpage
+\newpage
 
 # PHD COURSEWORK
 
@@ -381,4 +381,4 @@ Dynamic Programming Theory, Computation and Empirical Applications  (UCL) \hfill
 
 Applied Nonparametric Econometrics  (UCL) \hfill J. Racine
 
-Fixed Effects Treatment of Panel Data  (UCL) \hfill B. Honore -->
+Fixed Effects Treatment of Panel Data  (UCL) \hfill B. Honore
