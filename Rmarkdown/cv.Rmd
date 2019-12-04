@@ -28,7 +28,7 @@ urlcolor: blue
 
 # FORTHCOMING EMPLOYMENT
 
-Assistant Professor of Marketin, Tilburg University. \hfill from 01/2021
+Assistant Professor of Marketing, Tilburg University. \hfill From 01/2021
 
 
 # CURRENT EMPLOYMENT
@@ -53,19 +53,27 @@ CRS Fellow, Centre for Reproducible Science, University of Zurich. \hfill 2019
 
 Quantitative Marketing, Digital Marketing, Text as Data, Applied Econometrics, Media Economics.
 
-# RESEARCH PAPERS
+# PUBLICATIONS
 
-## JOB MARKET PAPER
+R. Bouchouicha, **L. Deer**, A. Eid, P. McGee, D. Schoch and H. Stojic, Y. Ygosse-Battisti and F. Vieider, *forthcoming*, "[*Gender Effects and Loss Aversion: Yes, No, Maybe?*](https://link.springer.com/article/10.1007/s11166-019-09315-3)," Journal of Risk and Uncertainty.
 
-**L. Deer**, P.K. Chintagunta and G.S. Crawford, "[*Online Word of Mouth and the Performance of New Products*](http://lachlandeer.github.io/files/deer_jmp.pdf)."
+**L. Deer** and R-C. Bayer, 2016, "[*Pledges of Commitment and Cooperation in Partnerships*](http://www.mdpi.com/2073-4336/7/1/4/pdf)," Games 7(1) Art. No. 4.
 
-## WORK IN PROGRESS
+# WORKING PAPERS
+**L. Deer**, P.K. Chintagunta and G.S. Crawford, 2019, "[*Online Word of Mouth and the Performance of New Products*](http://lachlandeer.github.io/files/deer_jmp.pdf)."
 
-**L. Deer**, P.K. Chintagunta and G.S. Crawford, "*How does Advertising Influence Online Word of Mouth? Evidence from Twitter*." ([Slides with preliminary results](http://lachlandeer.github.io/files/ads_wom_slides.pdf))
+
+G.S. Crawford, **L. Deer**, J. Smith and P. Sturgeon, 2017, "[*The Regulation of Public Service Broadcasters: Should there be more advertising on television?*](http://www.econ.uzh.ch/static/wp/econwp268.pdf)," CEPR Discussion Paper 12428 (Revise and Resubmit at IJIO).
+
+# WORK IN PROGRESS
+
+**L. Deer**, P.K. Chintagunta and G.S. Crawford, "*How does Advertising Influence Online Word of Mouth? Evidence from Twitter*."
+<!-- ([Slides with preliminary results](http://lachlandeer.github.io/files/ads_wom_slides.pdf)) -->
 
 <!-- **L. Deer**, P.K. Chintagunta and G.S. Crawford, "*What Consumers Tweet About: Evidence from Movie Tweets*" -->
 
-F. Javier Barreda, **L. Deer**, CS. Hsieh,  M. Koenig, G. Korkmaz and F. Vega Redondo, "*Endogenous Riot Networks*." ([Slides with preliminary results](http://lachlandeer.github.io/files/riots_slides.pdf))
+F. Javier Barreda, **L. Deer**, CS. Hsieh,  M. Koenig, G. Korkmaz and F. Vega Redondo, "*Endogenous Riot Networks*."
+<!-- ([Slides with preliminary results](http://lachlandeer.github.io/files/riots_slides.pdf)) -->
 
 **L. Deer**, "*Quantifying Product Buzz*."
 
@@ -83,20 +91,11 @@ F. Javier Barreda, **L. Deer**, CS. Hsieh,  M. Koenig, G. Korkmaz and F. Vega Re
 **L. Deer** and C. Oertel, "*Merger Simulation in `R`*." (`R` package) -->
 
 
-## WORKING PAPERS
-G.S. Crawford, **L. Deer**, J. Smith and P. Sturgeon, 2017, "[*The Regulation of Public Service Broadcasters: Should there be more advertising on television?*](http://www.econ.uzh.ch/static/wp/econwp268.pdf)," CEPR Discussion Paper 12428 (Revise and Resubmit at IJIO).
-
-
-## PUBLICATIONS
-
-R. Bouchouicha, **L. Deer**, A. Eid, P. McGee, D. Schoch and H. Stojic, Y. Ygosse-Battisti and F. Vieider, *forthcoming*, "[*Gender Effects and Loss Aversion: Yes, No, Maybe?*](http://lachlandeer.github.io/files/loss_aversion_gender_preprint.pdf)," Journal of Risk and Uncertainty.
-
-**L. Deer** and R-C. Bayer, 2016, "[*Pledges of Commitment and Cooperation in Partnerships*](http://www.mdpi.com/2073-4336/7/1/4/pdf)," Games 7(1) Art. No. 4.
-
-
 # ACADEMIC PRESENTATIONS
 
-*2019*: EMAC, Marketing Dynamics, Marketing Science, Mallen21.
+<!-- *2020*: 13th Digital Economics Conference - Toulouse. -->
+
+*2019*: Judge Business School (Cambridge), ESADE, Rotterdam School of Management, Universidad Carlos III Madrid, London Business School, Erasmus School of Economics, Tilburg, Monash University, Deakin Univeristy, Massey University, EMAC, Marketing Dynamics, Marketing Science, Mallen21, Media and Digitization Workshop - Univeristy of Zurich.
 
 *2018*: U Adelaide, Bocconi, Swiss IO Day, Marketing Science, EEA-ESEM, EARIE, Mallen20.
 
@@ -109,6 +108,8 @@ R. Bouchouicha, **L. Deer**, A. Eid, P. McGee, D. Schoch and H. Stojic, Y. Ygoss
 *2012*: Econometric Society - Australasian Meeting.
 
 *2011*: Econometric Society - Australasian Meeting, Australian Conference of Economists, Australia and New Zealand Workshop on Experimental Economics.
+
+<!-- * denotes discussant. -->
 
 # AWARDS & RESEARCH GRANTS
 
@@ -142,7 +143,7 @@ Summer Research Scholarship, University of Adelaide. \hfill 2006
 
 > Programming Practices for Research in Economics: Foundations (4 day intensive course, Winter 2019).
 
-> Programming Practices for Research in Economics (3 week intensive course, Summer 2016 & Summer 2017, Winter 2020).
+> Programming Practices for Research in Economics (3 week intensive course, Summer 2016 & Summer 2017, Winter 2020 [scheduled]).
 
 *Instructor, Software Carpentry and Data Carpentry* \hfill 2016-2019
 
