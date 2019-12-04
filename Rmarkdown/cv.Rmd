@@ -12,10 +12,10 @@ jobtitle: "Postdoctoral Fellow, University of Chicago Booth School of Business"
 address: "5807 S Woodlawn Ave, Chicago, IL 60637"
 fontawesome: yes
 email: lachlan.deer@gmail.com
-#github: lachlandeer
-phone: "+1 (773)-742-3810"
+github: lachlandeer
+#phone: "+1 (773)-742-3810"
 web: 'lachlandeer.github.io'
-#updated: no
+updated: yes
 
 keywords: RMarkdown, academic CV, template
 
