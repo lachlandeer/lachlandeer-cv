@@ -55,7 +55,7 @@ Quantitative Marketing, Digital Marketing, Text as Data, Applied Econometrics, M
 
 # PUBLICATIONS
 
-R. Bouchouicha, **L. Deer**, A. Eid, P. McGee, D. Schoch and H. Stojic, Y. Ygosse-Battisti and F. Vieider, *forthcoming*, "[*Gender Effects and Loss Aversion: Yes, No, Maybe?*](https://link.springer.com/article/10.1007/s11166-019-09315-3)," Journal of Risk and Uncertainty.
+R. Bouchouicha, **L. Deer**, A. Eid, P. McGee, D. Schoch and H. Stojic, Y. Ygosse-Battisti and F. Vieider, 2019, "[*Gender Effects and Loss Aversion: Yes, No, Maybe?*](https://link.springer.com/article/10.1007/s11166-019-09315-3)," Journal of Risk and Uncertainty, 59 (3), pp 171 - 184.
 
 **L. Deer** and R-C. Bayer, 2016, "[*Pledges of Commitment and Cooperation in Partnerships*](http://www.mdpi.com/2073-4336/7/1/4/pdf)," Games 7(1) Art. No. 4.
 
