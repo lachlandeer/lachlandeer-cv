@@ -143,11 +143,11 @@ Summer Research Scholarship, University of Adelaide. \hfill 2006
 
 > Programming Practices for Research in Economics: Foundations (4 day intensive course, Winter 2019).
 
-> Programming Practices for Research in Economics (3 week intensive course, Summer 2016 & Summer 2017, Winter 2020 [scheduled]).
+> Programming Practices for Research in Economics (3 week intensive course, Summer 2016 & Summer 2017, Winter 2020).
 
 *Instructor, Software Carpentry and Data Carpentry* \hfill 2016-2019
 
-> 2-day programming workshops at U Zurich (February 2019), University of Trento (November 2018), University of Geneva (March 2018), Karolinska Institute  (October 2017), Stanford (June 2017), Federal Reserve Board of Governors (May 2017) and Federal Reserve in Kansas City (Feb 2017).
+> 2-day programming workshops at Carnegie Mellon (March 2020), U Zurich (February 2019), University of Trento (November 2018), University of Geneva (March 2018), Karolinska Institute  (October 2017), Stanford (June 2017), Federal Reserve Board of Governors (May 2017) and Federal Reserve in Kansas City (Feb 2017).
 
 *Teaching Assistant, University of Zurich* \hfill 2014-2019
 
