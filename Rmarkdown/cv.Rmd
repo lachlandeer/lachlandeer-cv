@@ -28,7 +28,7 @@ urlcolor: blue
 
 # FORTHCOMING EMPLOYMENT
 
-Assistant Professor of Marketing, Tilburg University. \hfill From 01/2021
+Assistant Professor of Marketing, *Tilburg University*. \hfill From 01/2021
 
 
 # CURRENT EMPLOYMENT
