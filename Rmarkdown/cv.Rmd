@@ -139,50 +139,41 @@ Summer Research Scholarship, University of Adelaide. \hfill 2006
 
 
 # TEACHING EXPERIENCE
-*Instructor, University of Zurich* \hfill 2016-2020
 
-> Programming Practices for Research in Economics: Foundations (4 day intensive course, Winter 2019).
+## ***As (Co-)Lead Instructor***
 
-> Programming Practices for Research in Economics (3 week intensive course, Summer 2016 & Summer 2017, Winter 2020).
+*Tilburg University* \hfill 2021
 
-*Instructor, Software Carpentry and Data Carpentry* \hfill 2016-2020
+> [Research in Social Media](https://github.com/tisem-social-media) (Masters, Spring 2021)
+
+*University of Zurich* \hfill 2016-2020
+
+> [Programming Practices for Research in Economics: Foundations](https://pp4rs.github.io/editions/) (4 day intensive course for PhD Students, Winter 2019).
+
+> [Programming Practices for Research in Economics](https://pp4rs.github.io/editions/) (3 week intensive course for PhD Students, Summer 2016 & Summer 2017, Winter 2020).
+
+*Software Carpentry and Data Carpentry* \hfill 2016-2020
 
 > 2-day programming workshops at 
   American Univeristy (October 2020, $\times 2$)
   UW - Milwaukee (October 2020),
-  US Dept. of Agriculture (July 2020), 
-  University of Chicago Centre for Data and Computing (June 2020), 
-  Carnegie Mellon (March 2020), 
-  U Zurich (February 2019), 
-  University of Trento (November 2018), 
-  University of Geneva (March 2018), 
-  Karolinska Institute  (October 2017), 
-  Stanford (June 2017), 
-  Federal Reserve Board of Governors (May 2017) and 
-  Federal Reserve in Kansas City (Feb 2017).
+  [US Dept. of Agriculture](https://lachlandeer.github.io/2020-07-14-usda-online) (July 2020), 
+  [University of Chicago Centre for Data and Computing](https://lachlandeer.github.io/2020-06-23-uchicago-online2) (June 2020), 
+  [Carnegie Mellon](https://lachlandeer.github.io/2020-03-12-carnegie) (March 2020), 
+  [U Zurich](https://uzhcrs.github.io/2019-02-07-zurich) (February 2019), 
+  [University of Trento](https://mkcor.github.io/2018-11-14-trento/) (November 2018), 
+  [University of Geneva](https://lachlandeer.github.io/2018-03-08-geneva/) (March 2018), 
+  [Karolinska Institute](https://hadrieng.github.io/2017-10-16-karolinska/)  (October 2017), 
+  [Stanford](https://lachlandeer.github.io/2017-06-01-stanford) (June 2017), 
+  [Federal Reserve Board of Governors](https://github.com/lachlandeer/2017-05-01-dc-frb) (May 2017) and 
+  [Federal Reserve in Kansas City](https://github.com/butterflyology/2017-02-14-kcfrb) (Feb 2017).
 
-*Teaching Assistant, University of Zurich* \hfill 2014-2019
+## ***Thesis Advising***
 
-> Cross Section and Panel Data Econometrics (×2), Empirical Analysis of Asymmetric Information in Banking and Insurance Markets.
+*University of Zurich* \hfill 2016-2019
 
-> Thesis Supervision: 8 $\times$ Bachelor's Theses, 4 $\times$ Master's Theses.
+> 8 $\times$ Bachelor's Theses, 4 $\times$ Master's Theses
 
-
-*Teaching Assistant, School of Economics, University of Adelaide* \hfill 2008-2012
-
-> Business and Economic Statistics (×2), Intermediate Mathematical Economics, Intermediate Microeconomics (×4), International Financial Institutions and Markets, Macroeconomic Theory and Policy, Managerial Economics (×2), Money Banking and Financial Markets, Public Finance, Principles of Economics (×2), Principles of Macroeconomics (×2), Principles of Microeconomics I.
-
-*Instructor, School of Economics, University of Adelaide* \hfill 2010
-
-> Principles of Macroeconomics (Summer).
-
-*Instructor, Bradford College, University of Adelaide* \hfill 2008 & 2010
-
-> International Financial Institutions and Markets, Principles of Macroeconomics.
-
-*Teaching Assistant, Flinders Business School, Flinders University* \hfill 2008
-
-> Principles of Macroeconomics.
 
 # PROFESSIONAL ACTIVITIES
 
