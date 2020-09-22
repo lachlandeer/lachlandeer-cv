@@ -35,3 +35,8 @@ packrat/lib*/
 packrat/src/*
 # R stuff
 .Rhistory
+# tex stuff
+*.aux
+*.fdb*
+*.fls
+*.log
