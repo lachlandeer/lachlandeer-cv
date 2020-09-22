@@ -33,7 +33,7 @@ Assistant Professor of Marketing, *Tilburg University*. \hfill From 01/2021
 
 # CURRENT EMPLOYMENT
 
-Postdoctoral Fellow, *Booth School of Business, University of Chicago*. \hfill 08/2019 - 12/2020
+Postdoctoral Fellow, *Booth School of Business, University of Chicago*. \hfill 08/2019 - now
 
 # EDUCATION
 
@@ -46,7 +46,7 @@ Postdoctoral Fellow, *Booth School of Business, University of Chicago*. \hfill 0
 *University of Adelaide*, Bachelor's Degree in Economics (with First Class Honours). \hfill 2009
 
 # PROFESSIONAL AFFILIATIONS
-CRS Fellow, Centre for Reproducible Science, University of Zurich. \hfill 2019
+CRS Fellow, Centre for Reproducible Science, University of Zurich. \hfill 2019 - 2020
 
 
 # RESEARCH INTERESTS
@@ -147,7 +147,19 @@ Summer Research Scholarship, University of Adelaide. \hfill 2006
 
 *Instructor, Software Carpentry and Data Carpentry* \hfill 2016-2020
 
-> 2-day programming workshops at Carnegie Mellon (March 2020), U Zurich (February 2019), University of Trento (November 2018), University of Geneva (March 2018), Karolinska Institute  (October 2017), Stanford (June 2017), Federal Reserve Board of Governors (May 2017) and Federal Reserve in Kansas City (Feb 2017).
+> 2-day programming workshops at 
+  American Univeristy (October 2020, $\times 2$)
+  UW - Milwaukee (October 2020),
+  US Dept. of Agriculture (July 2020), 
+  University of Chicago Centre for Data and Computing (June 2020), 
+  Carnegie Mellon (March 2020), 
+  U Zurich (February 2019), 
+  University of Trento (November 2018), 
+  University of Geneva (March 2018), 
+  Karolinska Institute  (October 2017), 
+  Stanford (June 2017), 
+  Federal Reserve Board of Governors (May 2017) and 
+  Federal Reserve in Kansas City (Feb 2017).
 
 *Teaching Assistant, University of Zurich* \hfill 2014-2019
 
