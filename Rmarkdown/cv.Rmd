@@ -33,9 +33,11 @@ Assistant Professor of Marketing, *Tilburg University*. \hfill From 2021
 
 # PREVIOUS EMPLOYMENT
 
-Postdoctoral Fellow, *Booth School of Business, University of Chicago*. \hfill 08/2019 - 03/2021
+Postdoctoral Fellow, *Booth School of Business, University of Chicago*. \hfill 2019 - 2021
 
 # PROFESSIONAL AFFILIATIONS
+Co-lead, Tilburg Science Hub, Tilburg University. \hfill From 2022
+
 Fellow, Centre for Reproducible Science, University of Zurich. \hfill 2019 - 2020
 
 # EDUCATION
@@ -51,7 +53,7 @@ Fellow, Centre for Reproducible Science, University of Zurich. \hfill 2019 - 202
 
 # RESEARCH INTERESTS
 
-Quantitative Marketing, Digital Marketing, Text as Data, Applied Econometrics, Media Economics.
+Quantitative Marketing, Digital Marketing, Advertising, Political Marketing, Applied Econometrics, Media Economics.
 
 # PUBLICATIONS
 
@@ -60,28 +62,25 @@ R. Bouchouicha, **L. Deer**, A. Eid, P. McGee, D. Schoch and H. Stojic, Y. Ygoss
 **L. Deer** and R-C. Bayer, 2016, "[*Pledges of Commitment and Cooperation in Partnerships*](http://www.mdpi.com/2073-4336/7/1/4/pdf)," Games 7(1) Art. No. 4.
 
 # WORKING PAPERS
+C.S. Hsieh, **L. Deer**, M. Koenig and F. Vega Redondo, 2023, "[*Riot Networks and the Tullock Paradox: An application to the Egyptian Arab Spring*](https://cepr.org/publications/dp18093)."
 
-M Varga, **L. Deer** and A. Borah, 2021, "*Pandemic Pandemonium in Car Prices during the COVID-19 Outbreak*" (Being Revised).
+<!---M Varga, **L. Deer** and A. Borah, 2022, "*Pandemic Pandemonium in Car Prices during the COVID-19 Outbreak*" --->
 
-U Bergmann, **L. Deer** and J. Langer, 2021, "*Reproducible Computational and Empirical Economics Workflows Using Snakemake*" (Draft Complete).
+**L. Deer**, P.K. Chintagunta and G.S. Crawford, 2022, "[*Online Word of Mouth and the Performance of New Products*](http://lachlandeer.github.io/files/deer_jmp.pdf)."
 
-**L. Deer**, P.K. Chintagunta and G.S. Crawford, 2019, "[*Online Word of Mouth and the Performance of New Products*](http://lachlandeer.github.io/files/deer_jmp.pdf)." (Being Revised).
+U Bergmann, **L. Deer** and J. Langer, 2022, "*Reproducible Computational and Empirical Economics Workflows Using Snakemake*"
 
-G.S. Crawford, **L. Deer**, J. Smith and P. Sturgeon, 2017, "[*The Regulation of Public Service Broadcasters: Should there be more advertising on television?*](http://www.econ.uzh.ch/static/wp/econwp268.pdf)," CEPR Discussion Paper 12428 (Revise and Resubmit at IJIO).
+G.S. Crawford, **L. Deer**, J. Smith and P. Sturgeon, 2017, "[*The Regulation of Public Service Broadcasters: Should there be more advertising on television?*](http://www.econ.uzh.ch/static/wp/econwp268.pdf)," CEPR Discussion Paper 12428 
 
 # WORK IN PROGRESS
+N. Black, **L. Deer**, D. Johnston and J. Kunz, "*Are You Okay? The Effect of a National Peer-based Support Campaign on Mental Wellbeing and Suicide*."
 
-<!-- **L. Deer**, P.K. Chintagunta and G.S. Crawford, "*What Consumers Tweet About: Evidence from Movie Tweets*" -->
+**L. Deer** and J. Miller, "*Coarse Targeting of Political Messages: Evidence from the Spanish Language Divide in United States Elections*" 
 
-**L. Deer**, CS. Hsieh,  M. Koenig and F. Vega Redondo, "*Endogenous Riot Networks*." (Status: Drafting Manuscript, Target: Econometrica)
-<!-- ([Slides with preliminary results](http://lachlandeer.github.io/files/riots_slides.pdf)) -->
-
-N. Black, **L. Deer**, D. Johnston and J. Kunz, "*Peer-to-Peer Support Campaigns and Population-Wide Mental Health*." (Status: Drafting Manuscript.)
-
-**L. Deer**, P.K. Chintagunta and G.S. Crawford, "*How does Advertising Influence Online Word of Mouth? Evidence from Twitter*." (Status: Preliminary Results)
+**L. Deer**, P.K. Chintagunta and G.S. Crawford, "*How does Advertising Influence Online Word of Mouth? Evidence from Twitter*."
 <!-- ([Slides with preliminary results](http://lachlandeer.github.io/files/ads_wom_slides.pdf)) -->
 
-**L. Deer** and J. Miller, "*Coarse Targeting of Political Messages: Evidence from the Spanish Language Divide in United States Elections*" (Status: Preliminary Results).
+<!--- **L. Deer**, P.K. Chintagunta and G.S. Crawford, "*What Consumers Tweet About: Evidence from Movie Tweets*" --->
 
 <!-- **L. Deer**, "*Quantifying Product Buzz*." -->
 
@@ -100,6 +99,8 @@ N. Black, **L. Deer**, D. Johnston and J. Kunz, "*Peer-to-Peer Support Campaigns
 
 
 # ACADEMIC PRESENTATIONS
+
+*2023*: University of Adelaide, Deakin University MarTech Symposium, MASS2023.
 
 *2021*: DigiEcon - Munich (Online, Discussant), Tinbergen Institute (Online).
 
@@ -135,6 +136,8 @@ Econometric Society Travel Grant. \hfill 2012
 Australian Postgraduate Award. \hfill 2010-2012
 
 ## INTERNAL
+TiSEM Excellent Teacher Award for "*Social Media and Web Analytics*"  \hfill AY 2021/22
+
 Dissertation Fellowship, University of Zurich. \hfill 2018-2019
 
 Department Scholarship for PhD Students, University of Zurich. \hfill 2013-2018
@@ -156,20 +159,23 @@ Summer Research Scholarship, University of Adelaide. \hfill 2006
 
 *Tilburg University* \hfill 2021 - now
 
-> [Social Media and Web Analytics](https://github.com/tisem-digital-marketing) (Masters, Spring 2021, Spring 2022)
+> [Social Media and Web Analytics](https://github.com/tisem-digital-marketing) (Masters, Spring 2021, Spring 2022, Spring 2023)
 
 > [Digital and Social Media Strategies](https://github.com/tisem-digital-marketing) (Bachelors, Fall 2022)
 
 *University of Zurich* \hfill 2016-2021
 
+> [Programming Practices for Research in Economics](https://pp4rs.github.io/editions/) (3 week intensive course for PhD Students, Summer 2016 & Summer 2017, Winter 2020, Summer 2021).
+
 > [Programming Practices for Research in Economics: Foundations](https://pp4rs.github.io/editions/) (4 day intensive course for PhD Students, Winter 2019).
 
-> [Programming Practices for Research in Economics](https://pp4rs.github.io/editions/) (3 week intensive course for PhD Students, Summer 2016 & Summer 2017, Winter 2020, Summer 2021).
 
 *Software Carpentry and Data Carpentry* \hfill 2016 - now
 
 > 2-day programming workshops at 
-  [Vienna University and AUSSDA](https://lachlandeer.github.io/2022-05-05-vienna-ul-online/) (May 2022)
+  [University of Vienna](TBA.com) (Dec 2022),
+  [University of Twente](TBA.com) (Nov 2022),
+  [University of Vienna and AUSSDA](https://lachlandeer.github.io/2022-05-05-vienna-ul-online/) (May 2022),
   [American Univeristy - Economics](https://github.com/lachlandeer/2020-10-26-american-online-economics)(October 2020),
   [American Univeristy - Social Science](http://lachlandeer.github.io/2020-10-19-american-online-socialscience)(October 2020),
   [UW - Milwaukee](http://lachlandeer.github.io/2020-10-13-uwm-online) (October 2020),
@@ -188,17 +194,26 @@ Summer Research Scholarship, University of Adelaide. \hfill 2006
 
 *Tilburg University* \hfill 2021-present 
 
-> 14 $\times$ Master's Theses
+> approx. 8 Master's theses per year
 
 *University of Zurich* \hfill 2016-2019
 
 > 8 $\times$ Bachelor's Theses, 4 $\times$ Master's Theses
 
-## ***Guest Lectures***
+## ***Guest Lectures & Workshops***
+
+*[Monash University](https://github.com/2023-08-03-monash)* \hfill Winter 2023
+
+> Topic: Using Text as Data in Empirical Economics Research
+
+*[University of Adelaide](https://github.com/2023-03-21-adelaide)* \hfill Winter 2023
+
+> Topic: Introduction to Text as Data for Marketing Research
 
 *[PREDOC Summer Course in Social Science Analytics](https://predoc.org/events/predoc-summer-2021)* \hfill 2021
 
 > Lecture Topic: Social Media Data and Text Analytics
+
 
 # PROFESSIONAL ACTIVITIES
 
@@ -211,6 +226,8 @@ Summer Research Scholarship, University of Adelaide. \hfill 2006
 > Zurich Empirical Industrial Organization Group (2017, 2018, Lead Organizer), PhD Breakfast (2017, 2018, co-organized), Computational Economics Working Group (2016, 2018, co-organized), Zurich Workshop in Economics (2015, Lead Organizer).
 
 *Community Engagement*
+
+<!--- Co-Lead for [Tilburg Science Hub](https://tilburgsciencehub.com/) (2022 - now) --->
 
 > Lesson Maintainer for Data Carpentry - Introduction to R for Geospatial Data, (2018-2022)
 
