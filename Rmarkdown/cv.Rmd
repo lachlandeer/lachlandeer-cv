@@ -36,9 +36,8 @@ Assistant Professor of Marketing, *Tilburg University*. \hfill From 2021
 Postdoctoral Fellow, *Booth School of Business, University of Chicago*. \hfill 2019 - 2021
 
 # PROFESSIONAL AFFILIATIONS
-Co-lead, Tilburg Science Hub, Tilburg University. \hfill From 2022
 
-Faculty Ambassador - TiSEM, Open Science Community Tilburg. \hfill From 2023
+Co-lead, Tilburg Science Hub, Tilburg University. \hfill From 2022
 
 Fellow, Centre for Reproducible Science, University of Zurich. \hfill 2019 - 2020
 
@@ -64,19 +63,21 @@ R. Bouchouicha, **L. Deer**, A. Eid, P. McGee, D. Schoch and H. Stojic, Y. Ygoss
 **L. Deer** and R-C. Bayer, 2016, "[*"Pledges of Commitment and Cooperation in Partnerships"*](http://www.mdpi.com/2073-4336/7/1/4/pdf)," Games 7(1) Art. No. 4.
 
 # WORKING PAPERS
-**L. Deer**, S. Adler, H. Datta,  N. Mizik and M. Sarstedt, 2024, [*"Toward Open Science in Marketing Research"*](https://doi.org/10.31219/osf.io/f7a8c)
+**L. Deer**, S. Adler, H. Datta,  N. Mizik and M. Sarstedt, 2024, [*"Toward Open Science in Marketing Research"*](https://doi.org/10.31219/osf.io/f7a8c), *R&R at International Journal of Research in Marketing*.
 
-N. Black, **L. Deer**, D. Johnston and J. Kunz, 2023, "[*"Are You Okay? The Effect of a National Peer-based Support Campaign on Mental Wellbeing and Suicide"*](http://monash-ch-econ-wps.s3-ap-southeast-2.amazonaws.com/RePEc/mhe/chemon/2023-08.pdf)."
+N. Black, **L. Deer**, D. Johnston and J. Kunz, 2024, [*"Are You Okay? The Effect of a National Peer-based Support Campaign on Mental Wellbeing and Suicide"*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4575096).
 
-C.S. Hsieh, **L. Deer**, M. Koenig and F. Vega Redondo, 2023, "[*"Social networks and collective action in large populations: An application to the Egyptian Arab Spring"*](https://research.vu.nl/files/283279066/paper.pdf)."
+A. Brodeur, D. Mikola, N. Cook, ..., **L. Deer**, ... , 2024, [*"Mass Reproducibility and Replicability: A New Hope"*](https://www.econstor.eu/bitstream/10419/289437/1/I4R-DP107.pdf).
 
-**L. Deer**, S. Ellingsrud, A.H. Kordt and F. Heuer, 2023, "[*"Replication Report: Concentration Bias in Intertemporal Choice"*](https://www.econstor.eu/bitstream/10419/272844/1/I4R-DP042.pdf)."
+C.S. Hsieh, **L. Deer**, M. Koenig and F. Vega Redondo, 2023, [*"Social networks and collective action in large populations: An application to the Egyptian Arab Spring"*](https://research.vu.nl/files/283279066/paper.pdf).
 
-**L. Deer**, P.K. Chintagunta and G.S. Crawford, 2022, "[*"Online Word of Mouth and the Performance of New Products"*](http://lachlandeer.github.io/files/deer_jmp.pdf)."
+**L. Deer**, S. Ellingsrud, A.H. Kordt and F. Heuer, 2023, [*"Replication Report: Concentration Bias in Intertemporal Choice"*](https://www.econstor.eu/bitstream/10419/272844/1/I4R-DP042.pdf).
+
+**L. Deer**, P.K. Chintagunta and G.S. Crawford, 2022, [*"Online Word of Mouth and the Performance of New Products"*](http://lachlandeer.github.io/files/deer_jmp.pdf).
 
 U Bergmann, **L. Deer** and J. Langer, 2022, "*Reproducible Computational and Empirical Economics Workflows Using Snakemake*"
 
-G.S. Crawford, **L. Deer**, J. Smith and P. Sturgeon, 2017, "[*The Regulation of Public Service Broadcasters: Should there be more advertising on television?*](http://www.econ.uzh.ch/static/wp/econwp268.pdf)," CEPR Discussion Paper 12428 
+G.S. Crawford, **L. Deer**, J. Smith and P. Sturgeon, 2017, ["*The Regulation of Public Service Broadcasters: Should there be more advertising on television?*"](http://www.econ.uzh.ch/static/wp/econwp268.pdf), CEPR Discussion Paper 12428 .
 
 <!---M Varga, **L. Deer** and A. Borah, 2022, "*Pandemic Pandemonium in Car Prices during the COVID-19 Outbreak*" --->
 
@@ -115,14 +116,16 @@ S. Banerjee, **L. Deer**, D. McCarthy and J. Liaukonyte, "*Consumer Switching Be
 
 # META-SCIENCE PROJECTS
 
-Co-author and replicator in the [Institute for Replication's AI Games](https://i4replication.org/)
+Co-author and replicator in the [Institute for Replication's AI Games](https://i4replication.org/).
 
-Co-author and replicator in the [Institute for Replication's First Meta Paper](https://i4replication.org/)
+Co-author and replicator in the [Institute for Replication's First Meta Paper](https://i4replication.org/).
 
-Co-author and replicator in the [Many Economists Project](https://nickch-k.github.io/ManyEconomists/)
+Co-author and replicator in the [Many Economists Project](https://nickch-k.github.io/ManyEconomists/).
 
 
 # ACADEMIC PRESENTATIONS
+
+*2024* *(including forthcoming)*: Marketing Science, University of Melbourne.
 
 *2023*: University of Adelaide, Deakin University MarTech Symposium, MASS2023, Marketing Science.
 
@@ -253,9 +256,10 @@ Summer Research Scholarship, University of Adelaide. \hfill 2006
 
 *Community Engagement*
 
+> Faculty Ambassador - TiSEM, Open Science Community Tilburg (2023 - present).
 <!---Co-Lead at [Tilburg Science Hub](https://tilburgsciencehub.com/) (2022 - now) --->
 
-> Lesson Maintainer for Data Carpentry - Introduction to R for Geospatial Data, (2018-2022)
+> Lesson Maintainer for Data Carpentry - Introduction to R for Geospatial Data, (2018-2022).
 
 > Lesson Contributions to Software Carpentry and Data Carpentry:
     Data Organization in Spreadsheets for Social Scientists,
