@@ -35,11 +35,6 @@ Assistant Professor of Marketing, *Tilburg University*. \hfill From 2021
 
 Postdoctoral Fellow, *Booth School of Business, University of Chicago*. \hfill 2019 - 2021
 
-# PROFESSIONAL AFFILIATIONS
-
-Co-lead, Tilburg Science Hub, Tilburg University. \hfill From 2022
-
-Fellow, Centre for Reproducible Science, University of Zurich. \hfill 2019 - 2020
 
 # EDUCATION
 
@@ -63,9 +58,9 @@ R. Bouchouicha, **L. Deer**, A. Eid, P. McGee, D. Schoch and H. Stojic, Y. Ygoss
 **L. Deer** and R-C. Bayer, 2016, "[*"Pledges of Commitment and Cooperation in Partnerships"*](http://www.mdpi.com/2073-4336/7/1/4/pdf)," Games 7(1) Art. No. 4.
 
 # WORKING PAPERS
-**L. Deer**, S. Adler, H. Datta,  N. Mizik and M. Sarstedt, 2024, [*"Toward Open Science in Marketing Research"*](https://doi.org/10.31219/osf.io/f7a8c), *R&R at International Journal of Research in Marketing*.
+N. Black, **L. Deer**, D. Johnston and J. Kunz, 2024, [*"Are You Okay? The Effect of a National Peer-based Support Campaign on Mental Wellbeing and Suicide"*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4575096). *R&R at Journal of Marketing*
 
-N. Black, **L. Deer**, D. Johnston and J. Kunz, 2024, [*"Are You Okay? The Effect of a National Peer-based Support Campaign on Mental Wellbeing and Suicide"*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4575096).
+**L. Deer**, S. Adler, H. Datta,  N. Mizik and M. Sarstedt, 2024, [*"Toward Open Science in Marketing Research"*](https://doi.org/10.31219/osf.io/f7a8c), *R&R at International Journal of Research in Marketing*.
 
 A. Brodeur, D. Mikola, N. Cook, ..., **L. Deer**, ... , 2024, [*"Mass Reproducibility and Replicability: A New Hope"*](https://www.econstor.eu/bitstream/10419/289437/1/I4R-DP107.pdf).
 
@@ -118,14 +113,14 @@ S. Banerjee, **L. Deer**, D. McCarthy and J. Liaukonyte, "*Consumer Switching Be
 
 Co-author and replicator in the [Institute for Replication's AI Games](https://i4replication.org/).
 
-Co-author and replicator in the [Institute for Replication's First Meta Paper](https://i4replication.org/).
+Co-author and replicator in the [Institute for Replication's First and Second Meta Papers](https://i4replication.org/).
 
 Co-author and replicator in the [Many Economists Project](https://nickch-k.github.io/ManyEconomists/).
 
 
 # ACADEMIC PRESENTATIONS
 
-*2024* *(including forthcoming)*: Marketing Science, University of Melbourne.
+*2024* *(including forthcoming)*: Marketing Science, Australian Conference of Economists, University of Melbourne.
 
 *2023*: University of Adelaide, Deakin University MarTech Symposium, MASS2023, Marketing Science.
 
@@ -190,7 +185,7 @@ Summer Research Scholarship, University of Adelaide. \hfill 2006
 
 > [Social Media and Web Analytics](https://github.com/tisem-digital-marketing) (Masters, Spring 2021, Spring 2022, Spring 2023, Spring 2024)
 
-> [Digital and Social Media Strategies](https://github.com/tisem-digital-marketing) (Bachelors, Fall 2022, Fall 2023)
+> [Digital and Social Media Strategies](https://github.com/tisem-digital-marketing) (Bachelors, Fall 2022, Fall 2023, Fall 2024)
 
 *University of Zurich* \hfill 2016-2021
 
@@ -258,6 +253,10 @@ Summer Research Scholarship, University of Adelaide. \hfill 2006
 
 > Faculty Ambassador - TiSEM, Open Science Community Tilburg (2023 - present).
 <!---Co-Lead at [Tilburg Science Hub](https://tilburgsciencehub.com/) (2022 - now) --->
+
+> Co-lead, Tilburg Science Hub, Tilburg University (2022-present).
+
+> Fellow, Centre for Reproducible Science, University of Zurich (2019 - 2020).
 
 > Lesson Maintainer for Data Carpentry - Introduction to R for Geospatial Data, (2018-2022).
 
