@@ -38,7 +38,7 @@ Postdoctoral Fellow, *Booth School of Business, University of Chicago*. \hfill 2
 
 # EDUCATION
 
-*University of Zurich*, Ph.D. in Economics (summa cum laude). \hfill 2013-2019
+*University of Zurich*, Ph.D. in Economics (summa cum laude). \hfill 2019
 
 *University College London*, M.Sc in Economics (with Distinction). \hfill 2013
 
@@ -49,7 +49,9 @@ Postdoctoral Fellow, *Booth School of Business, University of Chicago*. \hfill 2
 
 # RESEARCH INTERESTS
 
-Quantitative Marketing, Digital Marketing, Advertising, Health
+*Substantive*:  Digital Marketing, Media Markets, Public Policy.
+
+*Methodological*: Structural Econometrics, Causal Inference, Text Analytics, Social Network Analysis.
 
 # PUBLICATIONS
 
@@ -58,21 +60,21 @@ R. Bouchouicha, **L. Deer**, A. Eid, P. McGee, D. Schoch and H. Stojic, Y. Ygoss
 **L. Deer** and R-C. Bayer, 2016, "[*"Pledges of Commitment and Cooperation in Partnerships"*](http://www.mdpi.com/2073-4336/7/1/4/pdf)," Games 7(1) Art. No. 4.
 
 # WORKING PAPERS
-N. Black, **L. Deer**, D. Johnston and J. Kunz, 2024, [*"Are You Okay? The Effect of a National Peer-based Support Campaign on Mental Wellbeing and Suicide"*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4575096). *R&R at Journal of Marketing*
+N. Black, **L. Deer**, D. Johnston and J. Kunz, 2024, [*"Are You Okay? The Effect of a National Peer-based Support Campaign on Mental Wellbeing and Suicide"*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4575096). *R&R at Journal of Marketing*.
 
 **L. Deer**, S. Adler, H. Datta,  N. Mizik and M. Sarstedt, 2024, [*"Toward Open Science in Marketing Research"*](https://doi.org/10.31219/osf.io/f7a8c), *R&R at International Journal of Research in Marketing*.
 
-A. Brodeur, D. Mikola, N. Cook, ..., **L. Deer**, ... , 2024, [*"Mass Reproducibility and Replicability: A New Hope"*](https://www.econstor.eu/bitstream/10419/289437/1/I4R-DP107.pdf).
+A. Brodeur, D. Mikola, N. Cook, ..., **L. Deer**, ... , 2024, [*"Mass Reproducibility and Replicability: A New Hope"*](https://www.econstor.eu/bitstream/10419/289437/1/I4R-DP107.pdf), *Submitted*.
 
-C.S. Hsieh, **L. Deer**, M. Koenig and F. Vega Redondo, 2023, [*"Social networks and collective action in large populations: An application to the Egyptian Arab Spring"*](https://research.vu.nl/files/283279066/paper.pdf).
+C.S. Hsieh, **L. Deer**, M. Koenig and F. Vega Redondo, 2024, [*"Social networks and collective action in large populations: An application to the Egyptian Arab Spring"*](https://lachlandeer.github.io/uploads/riot_networks_2024_08.pdf), *Submitted*.
 
 **L. Deer**, S. Ellingsrud, A.H. Kordt and F. Heuer, 2023, [*"Replication Report: Concentration Bias in Intertemporal Choice"*](https://www.econstor.eu/bitstream/10419/272844/1/I4R-DP042.pdf).
 
 **L. Deer**, P.K. Chintagunta and G.S. Crawford, 2022, [*"Online Word of Mouth and the Performance of New Products"*](http://lachlandeer.github.io/files/deer_jmp.pdf).
 
-U Bergmann, **L. Deer** and J. Langer, 2022, "*Reproducible Computational and Empirical Economics Workflows Using Snakemake*"
+<!--- U Bergmann, **L. Deer** and J. Langer, 2022, "*Reproducible Computational and Empirical Economics Workflows Using Snakemake*". --->
 
-G.S. Crawford, **L. Deer**, J. Smith and P. Sturgeon, 2017, ["*The Regulation of Public Service Broadcasters: Should there be more advertising on television?*"](http://www.econ.uzh.ch/static/wp/econwp268.pdf), CEPR Discussion Paper 12428 .
+G.S. Crawford, **L. Deer**, J. Smith and P. Sturgeon, 2017, ["*The Regulation of Public Service Broadcasters: Should there be more advertising on television?*"](http://www.econ.uzh.ch/static/wp/econwp268.pdf), CEPR Discussion Paper 12428.
 
 <!---M Varga, **L. Deer** and A. Borah, 2022, "*Pandemic Pandemonium in Car Prices during the COVID-19 Outbreak*" --->
 
@@ -82,13 +84,15 @@ G.S. Crawford, **L. Deer**, J. Smith and P. Sturgeon, 2017, ["*The Regulation of
 
 <!--- N. Black, **L. Deer**, D. Johnston and J. Kunz, "*Mental Health and Shopping Behaviour*." --->
 
-S. Banerjee, **L. Deer**, D. McCarthy and J. Liaukonyte, "*Consumer Switching Behaviour After Mergers in Oligpolistic Industries*."
+S. Banerjee, **L. Deer**, D. McCarthy and J. Liaukonyte, "*Consumer Switching Behaviour After Mergers in Oligpolistic Industries*".
 
-**L. Deer** and Y. Lee, "*Social Norms and Information Acquisition*."
+**L. Deer** and Y. Lee, "*Social Norms and Information Acquisition*".
 
-<!--- **L. Deer** and J. Miller, "*Coarse Targeting of Political Messages: Evidence from the Spanish Language Divide in United States Elections*"  --->
+N. Huntington-Klein, C. Portner, ... **L. Deer**, ... , 2024, *"The Sources of Researcher Variation in Economics"*.
 
-**L. Deer**, P.K. Chintagunta and G.S. Crawford, "*How does Advertising Influence Online Word of Mouth? Evidence from Twitter*."
+**L. Deer** and J. Miller, "*Coarse Targeting of Political Messages: Evidence from the Spanish Language Divide in United States Elections*".
+
+**L. Deer**, P.K. Chintagunta and G.S. Crawford, "*How does Advertising Influence Online Word of Mouth? Evidence from Twitter*".
 <!-- ([Slides with preliminary results](http://lachlandeer.github.io/files/ads_wom_slides.pdf)) -->
 
 <!--- **L. Deer**, P.K. Chintagunta and G.S. Crawford, "*What Consumers Tweet About: Evidence from Movie Tweets*" --->
@@ -120,11 +124,11 @@ Co-author and replicator in the [Many Economists Project](https://nickch-k.githu
 
 # ACADEMIC PRESENTATIONS
 
-*2024* *(including forthcoming)*: Marketing Science, Australian Conference of Economists, University of Melbourne.
+*2024* *(including forthcoming)*: Marketing Science, Australian Conference of Economists, University of Melbourne, Econometric Society Australasian Meeting.
 
 *2023*: University of Adelaide, Deakin University MarTech Symposium, MASS2023, Marketing Science.
 
-*2021*: DigiEcon - Munich (Online, Discussant), Tinbergen Institute (Online).
+*2021*: DigiEcon (Online, Discussant, LMU Munich), Tinbergen Institute (Online), Complex Data in the Study of Politics and Conflict (Online, Universitat Pompeu Fabra).
 
 *2020*: 13th Digital Economics Conference - Toulouse (Discussant).
 
@@ -146,10 +150,14 @@ Co-author and replicator in the [Many Economists Project](https://nickch-k.githu
 
 # AWARDS & RESEARCH GRANTS
 
-## EXTERNAL
-SNF Early PostDoc.Mobility Grant (Host Institute - Chicago Booth School of Business). \hfill 07/2019 - 03/2021
+## External
+Swiss National Science Foundation, *Early PostDoc.Mobility Grant*, Value: CHF 125,000. \hfill 07/2019 - 03/2021
 
-SNF Doc.Mobility Grant (Host Institution - Stanford GSB). \hfill 09/2016 - 05/2017
+> Host Institute: University of Chicago Booth School of Business.
+
+Swiss National Science Foundation, *Doc.Mobility Grant*, Value: CHF 45,000. \hfill 09/2016 - 05/2017
+
+>  Host Institution: Stanford GSB.
 
 <!---
 Econometric Society Travel Grant. \hfill 2012
@@ -157,10 +165,10 @@ Econometric Society Travel Grant. \hfill 2012
 
 Australian Postgraduate Award. \hfill 2010-2012
 
-## INTERNAL
-TiSEM Top Talent Award. \hfill AY 2022/23
+## Internal
+Top Talent Award, Tilburg School of Economics and Management. \hfill AY 2022/23
 
-TiSEM Excellent Teacher Award.  \hfill AY 2021/22
+Excellent Teacher Award, Tilburg School of Economics and Management.  \hfill AY 2021/22
 
 Dissertation Fellowship, University of Zurich. \hfill 2018-2019
 
@@ -183,9 +191,9 @@ Summer Research Scholarship, University of Adelaide. \hfill 2006
 
 *Tilburg University* \hfill 2021 - present
 
-> [Social Media and Web Analytics](https://github.com/tisem-digital-marketing) (Masters, Spring 2021, Spring 2022, Spring 2023, Spring 2024)
+> [Social Media and Web Analytics](https://github.com/tisem-digital-marketing) (Masters, Spring 2021, Spring 2022, Spring 2023, Spring 2024).
 
-> [Digital and Social Media Strategies](https://github.com/tisem-digital-marketing) (Bachelors, Fall 2022, Fall 2023, Fall 2024)
+> [Digital and Social Media Strategies](https://github.com/tisem-digital-marketing) (Bachelors, Fall 2022, Fall 2023, Fall 2024).
 
 *University of Zurich* \hfill 2016-2021
 
@@ -200,17 +208,17 @@ Summer Research Scholarship, University of Adelaide. \hfill 2006
   [University of Vienna](TBA.com) (Dec 2022),
   [University of Twente](TBA.com) (Nov 2022),
   [University of Vienna and AUSSDA](https://lachlandeer.github.io/2022-05-05-vienna-ul-online/) (May 2022),
-  [American Univeristy - Economics](https://github.com/lachlandeer/2020-10-26-american-online-economics)(October 2020),
-  [American Univeristy - Social Science](http://lachlandeer.github.io/2020-10-19-american-online-socialscience)(October 2020),
-  [UW - Milwaukee](http://lachlandeer.github.io/2020-10-13-uwm-online) (October 2020),
+  [American Univeristy - Economics](https://github.com/lachlandeer/2020-10-26-american-online-economics) (October 2020),
+  [American Univeristy - Social Science](http://lachlandeer.github.io/2020-10-19-american-online-socialscience) (October 2020),
+  [University of Wisconsin - Milwaukee](http://lachlandeer.github.io/2020-10-13-uwm-online) (October 2020),
   [US Dept. of Agriculture](https://lachlandeer.github.io/2020-07-14-usda-online) (July 2020), 
   [University of Chicago Centre for Data and Computing](https://lachlandeer.github.io/2020-06-23-uchicago-online2) (June 2020), 
-  [Carnegie Mellon](https://lachlandeer.github.io/2020-03-12-carnegie) (March 2020), 
+  [Carnegie Mellon University](https://lachlandeer.github.io/2020-03-12-carnegie) (March 2020), 
   [U Zurich](https://uzhcrs.github.io/2019-02-07-zurich) (February 2019), 
   [University of Trento](https://mkcor.github.io/2018-11-14-trento/) (November 2018), 
   [University of Geneva](https://lachlandeer.github.io/2018-03-08-geneva/) (March 2018), 
   [Karolinska Institute](https://hadrieng.github.io/2017-10-16-karolinska/)  (October 2017), 
-  [Stanford](https://lachlandeer.github.io/2017-06-01-stanford) (June 2017), 
+  [Stanford University](https://lachlandeer.github.io/2017-06-01-stanford) (June 2017), 
   [Federal Reserve Board of Governors](https://github.com/lachlandeer/2017-05-01-dc-frb) (May 2017) and 
   [Federal Reserve in Kansas City](https://github.com/butterflyology/2017-02-14-kcfrb) (Feb 2017).
 
@@ -218,40 +226,40 @@ Summer Research Scholarship, University of Adelaide. \hfill 2006
 
 *Tilburg University* \hfill 2021-present 
 
-> 8-12 Master's theses per year
+> 8-12 Master's theses per year.
 
 *University of Zurich* \hfill 2016-2019
 
-> 8 $\times$ Bachelor's Theses, 4 $\times$ Master's Theses
+> 8 $\times$ Bachelor's Theses, 4 $\times$ Master's Theses.
 
 ## ***Guest Lectures & Workshops***
 
-*[Monash University](https://github.com/2023-08-03-monash)* \hfill Winter 2023
-
-> Topic: Using Text as Data in Empirical Economics Research
-
 *[University of Adelaide](https://github.com/2023-03-21-adelaide)* \hfill Winter 2023
 
-> Topic: Introduction to Text as Data for Marketing Research
+> Topic: Introduction to Text as Data for Marketing Research.
+
+*[Monash University](https://github.com/2023-08-03-monash)* \hfill Winter 2023
+
+> Topic: Using Text as Data in Empirical Economics Research.
 
 *[PREDOC Summer Course in Social Science Analytics](https://predoc.org/events/predoc-summer-2021)* \hfill 2021
 
-> Lecture Topic: Social Media Data and Text Analytics
+> Lecture Topic: Social Media Data and Text Analytics.
 
 
 # PROFESSIONAL ACTIVITIES
 
 *Ad-hoc Refereeing*
 
-> Games, Information Economics and Policy, Journal of Economic Psychology, Journal of Economics and Statistics, Journal of Economic Behaviour and Organization.
+> Games, Information Economics and Policy, Journal of Economic Psychology, Journal of Economics and Statistics, Journal of Economic Behaviour and Organization, Peer Community in Registered Reports.
 
 *Workshops and Working Groups Organized*
 
-> Zurich Empirical Industrial Organization Group (2017, 2018, Lead Organizer), PhD Breakfast (2017, 2018, co-organized), Computational Economics Working Group (2016, 2018, co-organized), Zurich Workshop in Economics (2015, Lead Organizer).
+> Tilburg AI Replication Games (2024, forthcoming), Zurich Empirical Industrial Organization Group (2017, 2018, Lead Organizer), PhD Breakfast (2017, 2018, co-organized), Computational Economics Working Group (2016, 2018, co-organized), Zurich Workshop in Economics (2015, Lead Organizer).
 
 *Community Engagement*
 
-> Faculty Ambassador - TiSEM, Open Science Community Tilburg (2023 - present).
+> Faculty Ambassador, Tilburg School of Economics and Management, Open Science Community Tilburg (2023 - present).
 <!---Co-Lead at [Tilburg Science Hub](https://tilburgsciencehub.com/) (2022 - now) --->
 
 > Co-lead, Tilburg Science Hub, Tilburg University (2022-present).
