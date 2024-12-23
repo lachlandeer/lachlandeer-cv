@@ -49,25 +49,26 @@ Postdoctoral Fellow, *Booth School of Business, University of Chicago*. \hfill 2
 
 # RESEARCH INTERESTS
 
-Quantitative Marketing, Digital Marketing, Advertising, Public Policy
+Quantitative Marketing, Digital Marketing, Advertising, Public Policy.
 
 # PUBLICATIONS
+
+
+**L. Deer**, S. Adler, H. Datta,  N. Mizik and M. Sarstedt, *forthcoming*, [*"Toward Open Science in Marketing Research"*](https://doi.org/10.1016/j.ijresmar.2024.12.005), *International Journal of Research in Marketing*.
 
 R. Bouchouicha, **L. Deer**, A. Eid, P. McGee, D. Schoch and H. Stojic, Y. Ygosse-Battisti and F. Vieider, 2019, "[*Gender Effects and Loss Aversion: Yes, No, Maybe?*](https://link.springer.com/article/10.1007/s11166-019-09315-3)," Journal of Risk and Uncertainty, 59 (3), pp 171 - 184.
 
 **L. Deer** and R-C. Bayer, 2016, "[*"Pledges of Commitment and Cooperation in Partnerships"*](http://www.mdpi.com/2073-4336/7/1/4/pdf)," Games 7(1) Art. No. 4.
 
 # WORKING PAPERS
-**L. Deer**, S. Adler, H. Datta,  N. Mizik and M. Sarstedt, 2024, [*"Toward Open Science in Marketing Research"*](https://doi.org/10.31219/osf.io/f7a8c), *Conditionally accepted at International Journal of Research in Marketing*.
 
 N. Black, **L. Deer**, D. Johnston and J. Kunz, 2024, [*"Are You Okay? The Effect of a National Peer-based Support Campaign on Mental Wellbeing and Suicide"*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4575096). *R&R at Journal of Marketing*.
 
-**L. Deer**, C.S. Hsieh, M. Koenig and F. Vega Redondo, 2024, [*"Social networks and collective action in large populations: An application to the Egyptian Arab Spring"*](https://research.tilburguniversity.edu/files/92953925/riot_networks_2024_05.pdf). *Submitted*.
+**L. Deer**, C.S. Hsieh, M. Koenig and F. Vega Redondo, 2024, [*"Social Networks and Collective Action in Large Populations: An Application to the Egyptian Arab Spring"*](https://research.tilburguniversity.edu/files/92953925/riot_networks_2024_05.pdf). *Submitted*.
+
+A. Brodeur, D. Valenta, A. Marcoci, J.P. Aparicio D. Mikola, B. Barbarioli, R. Alexander, **L. Deer**, T. Stafford, L. Vilhuber, ...., 2024, "*Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science,*" *Submitted*.
 
 A. Brodeur, D. Mikola, N. Cook, ..., **L. Deer**, ... , 2024, [*"Mass Reproducibility and Replicability: A New Hope"*](https://www.econstor.eu/bitstream/10419/289437/1/I4R-DP107.pdf). *Submitted*.
-
-
-**L. Deer**, S. Ellingsrud, A.H. Kordt and F. Heuer, 2023, [*"Replication Report: Concentration Bias in Intertemporal Choice"*](https://www.econstor.eu/bitstream/10419/272844/1/I4R-DP042.pdf).
 
 **L. Deer**, P.K. Chintagunta and G.S. Crawford, 2022, [*"Online Word of Mouth and the Performance of New Products"*](http://lachlandeer.github.io/files/deer_jmp.pdf).
 
@@ -86,8 +87,6 @@ G.S. Crawford, **L. Deer**, J. Smith and P. Sturgeon, 2017, ["*The Regulation of
 S. Banerjee, **L. Deer**, D. McCarthy and J. Liaukonyte, "*Consumer Switching Behaviour After Mergers in Oligpolistic Industries*."
 
 **L. Deer** and Y. Lee, "*Social Norms and Information Acquisition*."
-
-A. Brodeur, D. Valenta, A. Marcoci, J.P. Aparicio D. Mikola, B. Barbarioli, R. Alexander, **L. Deer**, T. Stafford, L. Vilhuber, .... "*Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science.*"
 
 N. Huntington-Klein, C. Portner, ..., **L. Deer**, ..., "*The Sources of Researcher Variation in Economics*."
 
@@ -114,18 +113,21 @@ N. Huntington-Klein, C. Portner, ..., **L. Deer**, ..., "*The Sources of Researc
 **L. Deer** and C. Oertel, "*Merger Simulation in `R`*." (`R` package) -->
 
 
+# REPLICATION REPORTS
+
+**L. Deer**, S. Ellingsrud, A.H. Kordt and F. Heuer, 2023, [*"Replication Report: Concentration Bias in Intertemporal Choice"*](https://www.econstor.eu/bitstream/10419/272844/1/I4R-DP042.pdf).
+
 # META-SCIENCE PROJECTS
 
-Co-author and replicator in the [Institute for Replication's AI Games](https://i4replication.org/).
+Co-author, event organizer and replicator in the [Institute for Replication's AI Games](https://i4replication.org/).
 
 Co-author and replicator in the [Institute for Replication's First and Third Meta Papers](https://i4replication.org/).
 
 Co-author and replicator in the [Many Economists Project](https://nickch-k.github.io/ManyEconomists/).
 
-
 # ACADEMIC PRESENTATIONS
 
-*2024* *(including forthcoming)*: Marketing Science, University of Melbourne, Workshop on Digital Markets (WDM), Renmin University Business School, Australian Conference of Economists,  Australasian Meeting of the Econometric Society.
+*2024*: Marketing Science, University of Melbourne, Workshop on Digital Markets (WDM), Renmin University Business School, Australian Conference of Economists,  Australasian Meeting of the Econometric Society.
 
 *2023*: MASS2023, Marketing Science, Deakin University MarTech Symposium,  University of Adelaide.
 
@@ -188,9 +190,15 @@ Summer Research Scholarship, University of Adelaide. \hfill 2006
 
 *Tilburg University* \hfill 2021 - present
 
-> [Social Media and Web Analytics](https://github.com/tisem-digital-marketing) (Masters, Spring 2021, Spring 2022, Spring 2023, Spring 2024, Spring 2025)
+> [Social Media and Web Analytics](https://github.com/tisem-digital-marketing) 
+  (Masters, 
+    [Spring 2021](https://tisem-digital-marketing.github.io/2021-smwa/), 
+    [Spring 2022](https://tisem-digital-marketing.github.io/2022-smwa/), 
+    [Spring 2023](https://tisem-digital-marketing.github.io/2023-smwa/), 
+    [Spring 2024](https://tisem-digital-marketing.github.io/2024-smwa/), 
+    Spring 2025)
 
-> [Digital and Social Media Strategies](https://github.com/tisem-digital-marketing) (Bachelors, Fall 2022, Fall 2023, Fall 2024)
+> [Digital and Social Media Strategies](https://github.com/tisem-digital-marketing) (Bachelors, Fall 2022, Fall 2023, [Fall 2024](https://github.com/deer-marketing-lab/2024-dsms))
 
 *University of Zurich* \hfill 2016-2021
 
@@ -203,7 +211,7 @@ Summer Research Scholarship, University of Adelaide. \hfill 2006
 
 > 2-day programming workshops at 
   [University of Vienna](TBA.com) (Dec 2022),
-  [University of Twente](TBA.com) (Nov 2022),
+  [University of Twente](https://4turesearchdata-carpentries.github.io/2022-11-14-tudelft-online/) (Nov 2022),
   [University of Vienna and AUSSDA](https://lachlandeer.github.io/2022-05-05-vienna-ul-online/) (May 2022),
   [American Univeristy - Economics](https://github.com/lachlandeer/2020-10-26-american-online-economics)(October 2020),
   [American Univeristy - Social Science](http://lachlandeer.github.io/2020-10-19-american-online-socialscience)(October 2020),
@@ -248,7 +256,7 @@ Summer Research Scholarship, University of Adelaide. \hfill 2006
 
 *Ad-hoc Refereeing*
 
-> Games, Information Economics and Policy, Journal of Economic Psychology, Journal of Economics and Statistics, Journal of Economic Behaviour and Organization, Journal of Behavioural and Experimental Economics, Peer Community in Registered Reports.
+>  Information Economics and Policy, Journal of Economic Behaviour and Organization, Journal of Economic Psychology,  Journal of Behavioural and Experimental Economics, Games, Journal of Economics and Statistics,  Peer Community in Registered Reports.
 
 *Workshops and Working Groups Organized*
 
@@ -256,12 +264,11 @@ Summer Research Scholarship, University of Adelaide. \hfill 2006
 
 *Community Engagement*
 
-> Faculty Ambassador - TiSEM, Open Science Community Tilburg (2023 - present).
-<!---Co-Lead at [Tilburg Science Hub](https://tilburgsciencehub.com/) (2022 - now) --->
+> Faculty Ambassador - TiSEM, [Open Science Community Tilburg](https://www.tilburguniversity.edu/research/open-science-community) (2023 - present).
 
 > Co-lead, [Tilburg Science Hub](https://tilburgsciencehub.com/), Tilburg University (2022-present).
 
-> Fellow, Centre for Reproducible Science, University of Zurich (2019 - 2020).
+> Fellow, [Centre for Reproducible Science](https://www.crs.uzh.ch/en.html), University of Zurich (2019 - 2020).
 
 > Lesson Maintainer for Data Carpentry - Introduction to R for Geospatial Data, (2018-2022).
 
