@@ -58,17 +58,17 @@ Quantitative Marketing, Digital Marketing, Advertising, Public Policy.
 
 R. Bouchouicha, **L. Deer**, A. Eid, P. McGee, D. Schoch and H. Stojic, Y. Ygosse-Battisti and F. Vieider, 2019, "[*Gender Effects and Loss Aversion: Yes, No, Maybe?*](https://link.springer.com/article/10.1007/s11166-019-09315-3)," Journal of Risk and Uncertainty, 59 (3), pp 171 - 184.
 
-**L. Deer** and R-C. Bayer, 2016, "[*"Pledges of Commitment and Cooperation in Partnerships"*](http://www.mdpi.com/2073-4336/7/1/4/pdf)," Games 7(1) Art. No. 4.
+**L. Deer** and R-C. Bayer, 2016, [*"Pledges of Commitment and Cooperation in Partnerships"*](http://www.mdpi.com/2073-4336/7/1/4/pdf), Games 7(1) Art. No. 4.
 
 # WORKING PAPERS
 
-N. Black, **L. Deer**, D. Johnston and J. Kunz, 2024, [*"Are You Okay? The Effect of a National Peer-based Support Campaign on Mental Wellbeing and Suicide"*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4575096). *R&R at Journal of Marketing*.
+N. Black, **L. Deer**, D. Johnston and J. Kunz, 2025, [*"Are You Okay? The Effect of a National Peer-based Support Campaign on Mental Wellbeing and Suicide"*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4575096). *R&R at Journal of Marketing*.
+
+A. Brodeur, D. Valenta, A. Marcoci, J.P. Aparicio D. Mikola, B. Barbarioli, R. Alexander, **L. Deer**, T. Stafford, L. Vilhuber, ...., 2025, "[*Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science,*](https://www.econstor.eu/bitstream/10419/308508/1/I4R-DP195.pdf)", I4R Discussion Paper Series No. 195, *Submitted*.
 
 **L. Deer**, C.S. Hsieh, M. Koenig and F. Vega Redondo, 2024, [*"Social Networks and Collective Action in Large Populations: An Application to the Egyptian Arab Spring"*](https://research.tilburguniversity.edu/files/92953925/riot_networks_2024_05.pdf). *Submitted*.
 
-A. Brodeur, D. Valenta, A. Marcoci, J.P. Aparicio D. Mikola, B. Barbarioli, R. Alexander, **L. Deer**, T. Stafford, L. Vilhuber, ...., 2024, "*Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science,*" *Submitted*.
-
-A. Brodeur, D. Mikola, N. Cook, ..., **L. Deer**, ... , 2024, [*"Mass Reproducibility and Replicability: A New Hope"*](https://www.econstor.eu/bitstream/10419/289437/1/I4R-DP107.pdf). *Submitted*.
+A. Brodeur, D. Mikola, N. Cook, ..., **L. Deer**, ... , 2024, [*"Mass Reproducibility and Replicability: A New Hope"*](https://www.econstor.eu/bitstream/10419/289437/1/I4R-DP107.pdf). I4R Discussion Paper Series No. 107, *Submitted*.
 
 **L. Deer**, P.K. Chintagunta and G.S. Crawford, 2022, [*"Online Word of Mouth and the Performance of New Products"*](http://lachlandeer.github.io/files/deer_jmp.pdf).
 
@@ -115,7 +115,7 @@ N. Huntington-Klein, C. Portner, ..., **L. Deer**, ..., "*The Sources of Researc
 
 # REPLICATION REPORTS
 
-**L. Deer**, S. Ellingsrud, A.H. Kordt and F. Heuer, 2023, [*"Replication Report: Concentration Bias in Intertemporal Choice"*](https://www.econstor.eu/bitstream/10419/272844/1/I4R-DP042.pdf).
+**L. Deer**, S. Ellingsrud, A.H. Kordt and F. Heuer, 2023, [*"Replication Report: Concentration Bias in Intertemporal Choice"*](https://www.econstor.eu/bitstream/10419/272844/1/I4R-DP042.pdf), I4R Discussion Paper Series No. 42.
 
 # META-SCIENCE PROJECTS
 
@@ -256,7 +256,7 @@ Summer Research Scholarship, University of Adelaide. \hfill 2006
 
 *Ad-hoc Refereeing*
 
->  Information Economics and Policy, Journal of Economic Behaviour and Organization, Journal of Economic Psychology,  Journal of Behavioural and Experimental Economics, Games, Journal of Economics and Statistics,  Peer Community in Registered Reports.
+>  Information Economics and Policy, International Journal of Research in Marketing, Journal of Economic Behaviour and Organization, Journal of Economic Psychology,  Journal of Behavioural and Experimental Economics, Games, Journal of Economics and Statistics,  Peer Community in Registered Reports.
 
 *Workshops and Working Groups Organized*
 
