@@ -49,13 +49,7 @@ Postdoctoral Fellow, *Booth School of Business, University of Chicago*. \hfill 2
 
 # RESEARCH INTERESTS
 
-<<<<<<< HEAD
-*Substantive*:  Digital Marketing, Media Markets, Public Policy.
-
-*Methodological*: Structural Econometrics, Causal Inference, Text Analytics, Social Network Analysis.
-=======
 Quantitative Marketing, Digital Marketing, Advertising, Public Policy.
->>>>>>> unimelb
 
 # PUBLICATIONS
 
@@ -67,22 +61,12 @@ R. Bouchouicha, **L. Deer**, A. Eid, P. McGee, D. Schoch and H. Stojic, Y. Ygoss
 **L. Deer** and R-C. Bayer, 2016, [*"Pledges of Commitment and Cooperation in Partnerships"*](http://www.mdpi.com/2073-4336/7/1/4/pdf), Games 7(1) Art. No. 4.
 
 # WORKING PAPERS
-<<<<<<< HEAD
-N. Black, **L. Deer**, D. Johnston and J. Kunz, 2024, [*"Are You Okay? The Effect of a National Peer-based Support Campaign on Mental Wellbeing and Suicide"*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4575096). *R&R at Journal of Marketing*.
-=======
->>>>>>> unimelb
 
 N. Black, **L. Deer**, D. Johnston and J. Kunz, 2025, [*"Are You Okay? The Effect of a National Peer-based Support Campaign on Mental Wellbeing and Suicide"*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4575096). *R&R at Journal of Marketing*.
 
-<<<<<<< HEAD
-A. Brodeur, D. Mikola, N. Cook, ..., **L. Deer**, ... , 2024, [*"Mass Reproducibility and Replicability: A New Hope"*](https://www.econstor.eu/bitstream/10419/289437/1/I4R-DP107.pdf), *Submitted*.
-
-C.S. Hsieh, **L. Deer**, M. Koenig and F. Vega Redondo, 2024, [*"Social networks and collective action in large populations: An application to the Egyptian Arab Spring"*](https://lachlandeer.github.io/uploads/riot_networks_2024_08.pdf), *Submitted*.
-=======
 A. Brodeur, D. Valenta, A. Marcoci, J.P. Aparicio D. Mikola, B. Barbarioli, R. Alexander, **L. Deer**, T. Stafford, L. Vilhuber, ...., 2025, "[*Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science,*](https://www.econstor.eu/bitstream/10419/308508/1/I4R-DP195.pdf)", I4R Discussion Paper Series No. 195, *Submitted*.
 
 **L. Deer**, C.S. Hsieh, M. Koenig and F. Vega Redondo, 2024, [*"Social Networks and Collective Action in Large Populations: An Application to the Egyptian Arab Spring"*](https://research.tilburguniversity.edu/files/92953925/riot_networks_2024_05.pdf). *Submitted*.
->>>>>>> unimelb
 
 A. Brodeur, D. Mikola, N. Cook, ..., **L. Deer**, ... , 2024, [*"Mass Reproducibility and Replicability: A New Hope"*](https://www.econstor.eu/bitstream/10419/289437/1/I4R-DP107.pdf). I4R Discussion Paper Series No. 107, *Submitted*.
 
@@ -104,13 +88,9 @@ S. Banerjee, **L. Deer**, D. McCarthy and J. Liaukonyte, "*Consumer Switching Be
 
 **L. Deer** and Y. Lee, "*Social Norms and Information Acquisition*".
 
-<<<<<<< HEAD
-N. Huntington-Klein, C. Portner, ... **L. Deer**, ... , 2024, *"The Sources of Researcher Variation in Economics"*.
-=======
 N. Huntington-Klein, C. Portner, ..., **L. Deer**, ..., "*The Sources of Researcher Variation in Economics*."
 
 **L. Deer** and J. Miller, "*Coarse Targeting of Political Messages: Evidence from the Spanish Language Divide in United States Elections*."
->>>>>>> unimelb
 
 **L. Deer** and J. Miller, "*Coarse Targeting of Political Messages: Evidence from the Spanish Language Divide in United States Elections*".
 
@@ -149,11 +129,7 @@ Co-author and replicator in the [Many Economists Project](https://nickch-k.githu
 
 # ACADEMIC PRESENTATIONS
 
-<<<<<<< HEAD
-*2024* *(including forthcoming)*: Marketing Science, Australian Conference of Economists, University of Melbourne, Econometric Society Australasian Meeting.
-=======
 *2024*: Marketing Science, University of Melbourne, Workshop on Digital Markets (WDM), Renmin University Business School, Australian Conference of Economists,  Australasian Meeting of the Econometric Society.
->>>>>>> unimelb
 
 *2023*: MASS2023, Marketing Science, Deakin University MarTech Symposium,  University of Adelaide.
 
@@ -220,11 +196,6 @@ Summer Research Scholarship, University of Adelaide. \hfill 2006
 
 *Tilburg University* \hfill 2021 - present
 
-<<<<<<< HEAD
-> [Social Media and Web Analytics](https://github.com/tisem-digital-marketing) (Masters, Spring 2021, Spring 2022, Spring 2023, Spring 2024).
-
-> [Digital and Social Media Strategies](https://github.com/tisem-digital-marketing) (Bachelors, Fall 2022, Fall 2023, Fall 2024).
-=======
 > [Social Media and Web Analytics](https://github.com/tisem-digital-marketing) 
   (Masters, 
     [Spring 2021](https://tisem-digital-marketing.github.io/2021-smwa/), 
@@ -234,7 +205,6 @@ Summer Research Scholarship, University of Adelaide. \hfill 2006
     Spring 2025)
 
 > [Digital and Social Media Strategies](https://github.com/tisem-digital-marketing) (Bachelors, Fall 2022, Fall 2023, [Fall 2024](https://github.com/deer-marketing-lab/2024-dsms))
->>>>>>> unimelb
 
 *University of Zurich* \hfill 2016-2021
 
@@ -292,11 +262,7 @@ Summer Research Scholarship, University of Adelaide. \hfill 2006
 
 *Ad-hoc Refereeing*
 
-<<<<<<< HEAD
-> Games, Information Economics and Policy, Journal of Economic Psychology, Journal of Economics and Statistics, Journal of Economic Behaviour and Organization, Peer Community in Registered Reports.
-=======
 >  Information Economics and Policy, International Journal of Research in Marketing, Journal of Economic Behaviour and Organization, Journal of Economic Psychology,  Journal of Behavioural and Experimental Economics, Games, Journal of Economics and Statistics,  Peer Community in Registered Reports.
->>>>>>> unimelb
 
 *Workshops and Working Groups Organized*
 
@@ -304,12 +270,7 @@ Summer Research Scholarship, University of Adelaide. \hfill 2006
 
 *Community Engagement*
 
-<<<<<<< HEAD
-> Faculty Ambassador, Tilburg School of Economics and Management, Open Science Community Tilburg (2023 - present).
-<!---Co-Lead at [Tilburg Science Hub](https://tilburgsciencehub.com/) (2022 - now) --->
-=======
 > Faculty Ambassador - TiSEM, [Open Science Community Tilburg](https://www.tilburguniversity.edu/research/open-science-community) (2023 - present).
->>>>>>> unimelb
 
 > Co-lead, [Tilburg Science Hub](https://tilburgsciencehub.com/), Tilburg University (2022-present).
 
