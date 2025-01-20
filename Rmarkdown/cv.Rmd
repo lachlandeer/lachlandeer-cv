@@ -210,7 +210,7 @@ Summer Research Scholarship, University of Adelaide. \hfill 2006
 *Software Carpentry and Data Carpentry* \hfill 2016 - present
 
 > 2-day programming workshops at 
-  [University of Vienna](TBA.com) (Dec 2022),
+  [University of Vienna](https://lachlandeer.github.io/2022-05-05-vienna-ul-online/) (Dec 2022),
   [University of Twente](https://4turesearchdata-carpentries.github.io/2022-11-14-tudelft-online/) (Nov 2022),
   [University of Vienna and AUSSDA](https://lachlandeer.github.io/2022-05-05-vienna-ul-online/) (May 2022),
   [American Univeristy - Economics](https://github.com/lachlandeer/2020-10-26-american-online-economics)(October 2020),
