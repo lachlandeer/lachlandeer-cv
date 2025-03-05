@@ -129,6 +129,8 @@ Co-author and replicator in the [Many Economists Project](https://nickch-k.githu
 
 # ACADEMIC PRESENTATIONS
 
+*2025 (including forthcoming)*: Digital Economy Workshop, Marketing Science. 
+
 *2024*: Marketing Science, University of Melbourne, Workshop on Digital Markets (WDM), Renmin University Business School, Australian Conference of Economists,  Australasian Meeting of the Econometric Society.
 
 *2023*: MASS2023, Marketing Science, Deakin University MarTech Symposium,  University of Adelaide.
@@ -266,7 +268,7 @@ Summer Research Scholarship, University of Adelaide. \hfill 2006
 
 *Workshops and Working Groups Organized*
 
-> Tilburg AI Replication Games (2024, forthcoming), Zurich Empirical Industrial Organization Group (2017, 2018, Lead Organizer), PhD Breakfast (2017, 2018, co-organized), Computational Economics Working Group (2016, 2018, co-organized), Zurich Workshop in Economics (2015, Lead Organizer).
+> AI Replication Games at Tilburg University (2024), Zurich Empirical Industrial Organization Group (2017, 2018, Lead Organizer), PhD Breakfast (2017, 2018, co-organized), Computational Economics Working Group (2016, 2018, co-organized), Zurich Workshop in Economics (2015, Lead Organizer).
 
 *Community Engagement*
 
