@@ -26,6 +26,11 @@ linkcolor: blue
 urlcolor: blue
 ---
 
+# FORTHCOMING EMPLOYMENT
+
+Assistant Professor of Marketing (Lecturer in Australia), *University of Melbourne*. \hfill From mid-2025
+
+
 # CURRENT EMPLOYMENT
 
 Assistant Professor of Marketing, *Tilburg University*. \hfill From 2021
@@ -54,7 +59,7 @@ Quantitative Marketing, Digital Marketing, Advertising, Public Policy.
 # PUBLICATIONS
 
 
-**L. Deer**, S. Adler, H. Datta,  N. Mizik and M. Sarstedt, *forthcoming*, [*"Toward Open Science in Marketing Research"*](https://doi.org/10.1016/j.ijresmar.2024.12.005), *International Journal of Research in Marketing*.
+**L. Deer**, S. Adler, H. Datta,  N. Mizik and M. Sarstedt, *2025*, [*"Toward Open Science in Marketing Research"*](https://doi.org/10.1016/j.ijresmar.2024.12.005), International Journal of Research in Marketing.
 
 R. Bouchouicha, **L. Deer**, A. Eid, P. McGee, D. Schoch and H. Stojic, Y. Ygosse-Battisti and F. Vieider, 2019, "[*Gender Effects and Loss Aversion: Yes, No, Maybe?*](https://link.springer.com/article/10.1007/s11166-019-09315-3)," Journal of Risk and Uncertainty, 59 (3), pp 171 - 184.
 
@@ -62,21 +67,21 @@ R. Bouchouicha, **L. Deer**, A. Eid, P. McGee, D. Schoch and H. Stojic, Y. Ygoss
 
 # WORKING PAPERS
 
-N. Black, **L. Deer**, D. Johnston and J. Kunz, 2025, [*"Are You Okay? The Effect of a National Peer-based Support Campaign on Mental Wellbeing and Suicide"*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4575096). *R&R at Journal of Marketing*.
+N. Black, **L. Deer**, D. Johnston and J. Kunz, 2025, [*"Are You Okay? The Effect of a National Peer-based Support Campaign on Mental Wellbeing and Suicide"*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4575096). *2nd Round R&R at Journal of Marketing*.
 
-A. Brodeur, D. Valenta, A. Marcoci, J.P. Aparicio D. Mikola, B. Barbarioli, R. Alexander, **L. Deer**, T. Stafford, L. Vilhuber, ...., 2025, "[*Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science,*](https://www.econstor.eu/bitstream/10419/308508/1/I4R-DP195.pdf)", I4R Discussion Paper Series No. 195, *Submitted*.
+A. Brodeur, D. Valenta, A. Marcoci, J.P. Aparicio D. Mikola, B. Barbarioli, R. Alexander, **L. Deer**, T. Stafford, L. Vilhuber and many others, 2025, "[*Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science,*](https://www.econstor.eu/bitstream/10419/308508/1/I4R-DP195.pdf)", I4R Discussion Paper Series No. 195, *R&R at Nature*.
+
+N. Huntington-Klein, C. Portner and many others including **L. Deer**, 2025, "[*The Sources of Researcher Variation in Economics*.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5152665)" Working Paper.
 
 **L. Deer**, C.S. Hsieh, M. Koenig and F. Vega Redondo, 2024, [*"Social Networks and Collective Action in Large Populations: An Application to the Egyptian Arab Spring"*](https://research.tilburguniversity.edu/files/92953925/riot_networks_2024_05.pdf). *Submitted*.
 
-A. Brodeur, D. Mikola, N. Cook, ..., **L. Deer**, ... , 2024, [*"Mass Reproducibility and Replicability: A New Hope"*](https://www.econstor.eu/bitstream/10419/289437/1/I4R-DP107.pdf). I4R Discussion Paper Series No. 107, *Submitted*.
+A. Brodeur, D. Mikola, N. Cook and many others including **L. Deer** , 2024, [*"Mass Reproducibility and Replicability: A New Hope"*](https://www.econstor.eu/bitstream/10419/289437/1/I4R-DP107.pdf). I4R Discussion Paper Series No. 107, *Submitted*.
 
-**L. Deer**, P.K. Chintagunta and G.S. Crawford, 2022, [*"Online Word of Mouth and the Performance of New Products"*](http://lachlandeer.github.io/files/deer_jmp.pdf).
+**L. Deer**, P.K. Chintagunta and G.S. Crawford, 2022, [*"Online Word of Mouth and the Performance of New Products"*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4227912). Working Paper
 
 <!--- U Bergmann, **L. Deer** and J. Langer, 2022, "*Reproducible Computational and Empirical Economics Workflows Using Snakemake*". --->
 
 G.S. Crawford, **L. Deer**, J. Smith and P. Sturgeon, 2017, ["*The Regulation of Public Service Broadcasters: Should there be more advertising on television?*"](http://www.econ.uzh.ch/static/wp/econwp268.pdf), CEPR Discussion Paper 12428.
-
-<!---M Varga, **L. Deer** and A. Borah, 2022, "*Pandemic Pandemonium in Car Prices during the COVID-19 Outbreak*" --->
 
 
 # SELECTED WORK IN PROGRESS
@@ -88,13 +93,11 @@ S. Banerjee, **L. Deer**, D. McCarthy and J. Liaukonyte, "*Consumer Switching Be
 
 **L. Deer** and Y. Lee, "*Social Norms and Information Acquisition*".
 
-N. Huntington-Klein, C. Portner, ..., **L. Deer**, ..., "*The Sources of Researcher Variation in Economics*."
+<!--- **L. Deer** and J. Miller, "*Coarse Targeting of Political Messages: Evidence from the Spanish Language Divide in United States Elections*."-->
 
-**L. Deer** and J. Miller, "*Coarse Targeting of Political Messages: Evidence from the Spanish Language Divide in United States Elections*."
+<!--- **L. Deer** and J. Miller, "*Coarse Targeting of Political Messages: Evidence from the Spanish Language Divide in United States Elections*". -->
 
-**L. Deer** and J. Miller, "*Coarse Targeting of Political Messages: Evidence from the Spanish Language Divide in United States Elections*".
-
-**L. Deer**, P.K. Chintagunta and G.S. Crawford, "*How does Advertising Influence Online Word of Mouth? Evidence from Twitter*".
+<!---**L. Deer**, P.K. Chintagunta and G.S. Crawford, "*How does Advertising Influence Online Word of Mouth? Evidence from Twitter*".--->
 <!-- ([Slides with preliminary results](http://lachlandeer.github.io/files/ads_wom_slides.pdf)) -->
 
 <!--- **L. Deer**, P.K. Chintagunta and G.S. Crawford, "*What Consumers Tweet About: Evidence from Movie Tweets*" --->
@@ -117,9 +120,13 @@ N. Huntington-Klein, C. Portner, ..., **L. Deer**, ..., "*The Sources of Researc
 
 # REPLICATION REPORTS
 
+**L. Deer**, A. Krishna and L. Zhang, 2025, [*"Replication Report: Corrupted by Algorithms? How AI-generated And Human-written Advice Shape (Dis) Honesty"*](https://www.econstor.eu/bitstream/10419/313185/1/I4R-DP212.pdf), I4R Discussion Paper Series No. 212.
+
 **L. Deer**, S. Ellingsrud, A.H. Kordt and F. Heuer, 2023, [*"Replication Report: Concentration Bias in Intertemporal Choice"*](https://www.econstor.eu/bitstream/10419/272844/1/I4R-DP042.pdf), I4R Discussion Paper Series No. 42.
 
 # META-SCIENCE PROJECTS
+
+Co-author and replicator in the [Open Elasticity Project](https://www.elasticity-open-science.com/).
 
 Co-author, event organizer and replicator in the [Institute for Replication's AI Games](https://i4replication.org/).
 
@@ -129,7 +136,7 @@ Co-author and replicator in the [Many Economists Project](https://nickch-k.githu
 
 # ACADEMIC PRESENTATIONS
 
-*2025 (including forthcoming)*: Digital Economy Workshop, Marketing Science. 
+*2025 (including forthcoming)*: Digital Economy Workshop, Marketing Science, Summer AMA, Workshop on Digital Markets (WDM). 
 
 *2024*: Marketing Science, University of Melbourne, Workshop on Digital Markets (WDM), Renmin University Business School, Australian Conference of Economists,  Australasian Meeting of the Econometric Society.
 
@@ -204,7 +211,7 @@ Summer Research Scholarship, University of Adelaide. \hfill 2006
     [Spring 2022](https://tisem-digital-marketing.github.io/2022-smwa/), 
     [Spring 2023](https://tisem-digital-marketing.github.io/2023-smwa/), 
     [Spring 2024](https://tisem-digital-marketing.github.io/2024-smwa/), 
-    Spring 2025)
+    [Spring 2025](https://tisem-digital-marketing.github.io/2025-smwa/),)
 
 > [Digital and Social Media Strategies](https://github.com/tisem-digital-marketing) (Bachelors, Fall 2022, Fall 2023, [Fall 2024](https://github.com/deer-marketing-lab/2024-dsms))
 
